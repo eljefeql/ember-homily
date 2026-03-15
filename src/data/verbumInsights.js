@@ -1,3 +1,7 @@
+import { VERBUM_INSIGHTS_YEAR_A_PART1 } from './verbumInsightsYearA_part1.js'
+import { VERBUM_INSIGHTS_YEAR_A_PART2 } from './verbumInsightsYearA_part2.js'
+import { VERBUM_INSIGHTS_YEAR_A_PART3 } from './verbumInsightsYearA_part3.js'
+
 // Verbum Scholar insight data
 // In production: fetched live from app.verbum.com via Chrome MCP browser automation
 // Structure: keyed by Gospel reference, with fallback by theme/season
@@ -44,6 +48,10 @@ export function verbumGreekUrl(lemma) {
 // In production these are scraped/generated from live Verbum data
 
 export const VERBUM_INSIGHTS = {
+  ...VERBUM_INSIGHTS_YEAR_A_PART1,
+  ...VERBUM_INSIGHTS_YEAR_A_PART2,
+  ...VERBUM_INSIGHTS_YEAR_A_PART3,
+
 
   // John 4:5-42 — The Samaritan Woman at the Well
   'John 4:5-42': [
@@ -145,6 +153,82 @@ export const VERBUM_INSIGHTS = {
       body: 'John says Jesus was "wearied from his journey" (κεκοπιακώς) — a word of genuine physical exhaustion. Chrysostom meditates on this: the one who holds the universe does not rest on it but sits on a stone lip of a well. The incarnation means God gets tired. Chrysostom sees this as the deepest intimacy — the Creator in the posture of a creature, needing a drink, waiting for a stranger to show mercy.',
       source: 'Chrysostom, Homilies on John 31',
       verbumUrl: verbumFactbookUrl('John 4:6'),
+    },
+  ],
+
+  // John 9:1-41 — The Man Born Blind (Lent 4A)
+  'John 9:1-41': [
+    {
+      type: 'language',
+      headline: '"Blind from birth" — unique phrase',
+      keyword: 'τυφλὸς ἐκ γενετῆς',
+      keywordTranslit: 'typhlos ek genetēs',
+      body: 'The phrase "blind from birth" (ἐκ γενετῆς) appears only here in the entire New Testament. It is not incidental. John is establishing that this man\'s blindness is not a condition he acquired — it is his whole identity, his entire experience of the world. When sight comes, it is not restoration but creation. Vincent\'s Word Studies notes the word γενετή is related to γένεσις — birth, origin, beginning.',
+      source: 'Vincent, Word Studies in the New Testament (1887)',
+      verbumUrl: verbumFactbookUrl('John 9:1'),
+    },
+    {
+      type: 'structural',
+      headline: 'Refusing the sin-blindness equation',
+      keyword: 'οὔτε οὗτος ἥμαρτεν',
+      keywordTranslit: 'oute houtos hēmarten',
+      body: 'The disciples\' question assumes a direct moral cause for the man\'s blindness — either his sin or his parents\'. This was the dominant framework of Second Temple Judaism (cf. Sirach 38:15). Jesus refuses both options entirely. The JFB Commentary notes his answer is not a different explanation but a reorientation: the man\'s whole life has been ordered toward this moment of revealed glory. Suffering is not punishment; it is sometimes the shape of a vocation.',
+      source: 'JFB Commentary Critical and Explanatory, Vol. 2',
+      verbumUrl: verbumFactbookUrl('John 9:2'),
+    },
+    {
+      type: 'language',
+      headline: 'Clay echoes the first creation',
+      keyword: 'πηλὸν ἐποίησεν',
+      keywordTranslit: 'pēlon epoiēsen',
+      body: 'Jesus spits on the ground and makes πηλός (pēlos) — clay. The same Greek word appears in the LXX for the clay of Adam\'s formation (cf. Job 10:9; Isaiah 29:16). The JFB Commentary observes the clay had no medicinal value and was unnecessary for the healing — its function is theological. Jesus forms a new creation at the eyes of a man who has never seen. The miracle recapitulates Genesis.',
+      source: 'JFB Commentary Critical and Explanatory, Vol. 2',
+      verbumUrl: verbumGreekUrl('πηλός'),
+    },
+    {
+      type: 'structural',
+      headline: 'Siloam means Sent — on purpose',
+      keyword: 'Σιλωάμ — ἀπεσταλμένος',
+      keywordTranslit: 'Silōam — apestalmenos',
+      body: 'John translates Siloam for his readers: it means "Sent" (ἀπεσταλμένος). This is not a footnote — it is the theological center of the scene. The man is healed at the pool of the One Sent, sent by the One Sent. The pool was used in the Feast of Tabernacles water-pouring ritual, giving it strong messianic resonance for Jewish readers. Marianne Meye Thompson (NTL) notes the Sent/Son of God christology is woven into the very geography.',
+      source: 'Thompson, John: A Commentary (NTL, 2015)',
+      verbumUrl: verbumFactbookUrl('Siloam'),
+    },
+    {
+      type: 'patristic',
+      headline: 'The man born blind is all of us',
+      keyword: 'totum genus humanum',
+      keywordTranslit: '"the whole human race"',
+      body: 'Augustine opens Homily 44 on this passage with one of his most compressed theological claims: "The deeds of the Lord are signs; the man born blind represents the whole human race." For Augustine, the man is not a case study but an icon — humanity as it comes from the womb, unable to see God until Christ makes clay from the dust we are and touches our eyes. The healing is baptism; the pool is the font.',
+      source: 'Augustine, Homily 44 on the Gospel of John (NPNF 1.7)',
+      verbumUrl: verbumFactbookUrl('John 9:1'),
+    },
+    {
+      type: 'patristic',
+      headline: 'Chrysostom on the parents\' fear',
+      keyword: 'ἐφοβοῦντο τοὺς Ἰουδαίους',
+      keywordTranslit: 'ephobounto tous Ioudaious',
+      body: 'John notes the parents give the minimal possible answer — "he is of age, ask him" — because they feared excommunication (v.22). Chrysostom (Homilies on John 57) does not condemn them but reads their silence as a mirror for his own congregation: how often does institutional fear produce exactly this response, the non-answer that protects the self while abandoning the son? The parents are not villains. They are recognizable.',
+      source: 'Chrysostom, Homilies on John 57',
+      verbumUrl: verbumFactbookUrl('John 9:22'),
+    },
+    {
+      type: 'language',
+      headline: '"Do you want to be his disciples?" — irony',
+      keyword: 'μὴ καὶ ὑμεῖς θέλετε',
+      keywordTranslit: 'mē kai hymeis thelete',
+      body: 'Vincent\'s Word Studies calls verse 27 a moment of "half-concealed irony" — the healed man, questioned a second time, essentially invites the Pharisees to sign up as disciples. He came in unable to see and leaves able to see through the performance of authority. The chapter is structured so that his sight and his insight arrive together. He finishes by worshipping (v.38); they finish by judging (v.41).',
+      source: 'Vincent, Word Studies in the New Testament (1887)',
+      verbumUrl: verbumFactbookUrl('John 9:27'),
+    },
+    {
+      type: 'commentary',
+      headline: 'A trial with escalating confession',
+      keyword: 'προφήτης ἐστίν — Κύριε, πιστεύω',
+      keywordTranslit: '"He is a prophet" — "Lord, I believe"',
+      body: 'Brendan Byrne (Life Abounding, pp.157–169) reads the entire chapter as a trial narrative with two communities moving in opposite directions. The healed man\'s christology rises — "a man called Jesus" (v.11), "a prophet" (v.17), "Lord, I believe" (v.38) — while the Pharisees\' position hardens from division (v.16) to expulsion (v.34) to spiritual blindness declared (v.41). The chapter is a portrait of what happens when we encounter Christ: we either see more, or less.',
+      source: 'Byrne, Life Abounding: A Reading of John\'s Gospel (2014)',
+      verbumUrl: verbumFactbookUrl('John 9:38'),
     },
   ],
 
