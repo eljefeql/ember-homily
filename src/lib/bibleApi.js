@@ -29,14 +29,37 @@ const cache = new Map()
  */
 function normalizeRef(reference) {
   let ref = reference
+
+  // 1. When multiple cycle options separated by " / " (e.g. "Matt 26:14 (A) / Mark 14:1 (B) / ..."),
+  //    take only the first option.
+  ref = ref.split(/\s*\/\s*/)[0]
+
+  // 2. Strip parenthetical alternates: "(or Mark 16:1-7 at Vigil)", "(Mass at Midnight)", "(A)", etc.
+  ref = ref.replace(/\s*\([^)]*\)/g, '')
+
+  // 3. Strip square-bracket notes: "[or short form]"
+  ref = ref.replace(/\s*\[[^\]]*\]/g, '')
+
+  // 4. Strip bare " or ..." alternatives without parens: "Luke 1:26-38 or Luke 1:39-47"
+  ref = ref.split(/ or /i)[0]
+
+  // 5. Convert en-dash / em-dash to hyphen, then collapse any surrounding spaces.
+  //    Handles "John 18:1 – 19:42" → "John 18:1-19:42"
+  ref = ref
     .replace(/\u2013|\u2014/g, '-')
-    .replace(/(?<=\d)[a-z](?=[,;\s\-]|$)/g, '')
+    .replace(/\s+-\s+/g, '-')   // " - " → "-"
+
+  // 6. Strip trailing lowercase letter from verse numbers: "13a" → "13"
+  ref = ref.replace(/(?<=\d)[a-z](?=[,;\s\-]|$)/g, '')
+
+  // 7. Semicolons → commas; tighten spaces around commas
+  ref = ref
     .replace(/;/g, ',')
-    .replace(/\s*,\s*/g, ',')   // strip spaces around commas: "14, 22" → "14,22"
+    .replace(/\s*,\s*/g, ',')
     .trim()
 
-  // Collapse cross-chapter non-contiguous refs to a span.
-  // e.g. "Hebrews 4:14-16,5:7-9" → "Hebrews 4:14-5:9"
+  // 8. Collapse cross-chapter non-contiguous refs to a span.
+  //    e.g. "Hebrews 4:14-16,5:7-9" → "Hebrews 4:14-5:9"
   const crossChapter = ref.match(/^(.*?)(\d+):(\d+)(?:-\d+)?,(\d+):(\d+)(?:-(\d+))?/)
   if (crossChapter) {
     const [, bookPart, firstChap, firstVerse, lastChap,, lastVerse] = crossChapter
