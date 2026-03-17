@@ -66,8 +66,7 @@ export default function Step4Story() {
         {/* Connection input — appears once story has content */}
         {state.personalStory && (
           <div
-            className="step-card animate-slide-up border-l-4"
-            style={{ borderLeftColor: 'var(--gold)' }}
+            className="step-card animate-slide-up"
           >
             <h3 className="font-serif text-lg mb-1" style={{ color: 'var(--text-primary)' }}>
               Make the connection
@@ -91,8 +90,7 @@ export default function Step4Story() {
         {/* Congregation moment — appears once story + connection have content */}
         {state.storyConnection && (
           <div
-            className="step-card animate-slide-up border-l-4"
-            style={{ borderLeftColor: 'var(--border-medium)' }}
+            className="step-card animate-slide-up"
           >
             <h3 className="font-serif text-lg mb-1" style={{ color: 'var(--text-primary)' }}>
               Who are you preaching to this week?
