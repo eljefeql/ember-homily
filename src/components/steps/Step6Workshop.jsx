@@ -6,7 +6,7 @@ import PromptCard from '../ui/PromptCard'
 import AimAnchor from '../ui/AimAnchor'
 import ReadingsPanel from '../ui/ReadingsPanel'
 import { wordCount, estimateReadingTime } from '../../lib/utils'
-import { ChevronDown, ChevronUp, Sparkles, RotateCcw } from 'lucide-react'
+import { ChevronDown, ChevronUp, Sparkles, RotateCcw, BookOpen } from 'lucide-react'
 
 const FRAMEWORK_SECTIONS = [
   {
@@ -286,6 +286,7 @@ function FrameworkSection({ section, value, onChange, theTurn, aim }) {
 
 export default function Step6Workshop() {
   const { state, dispatch } = useHomily()
+  const [showLectio, setShowLectio] = useState(false)
 
   function handleSectionChange(sectionId, value) {
     dispatch({ type: 'SET_FRAMEWORK_SECTION', section: sectionId, value })
@@ -327,6 +328,51 @@ export default function Step6Workshop() {
 
           {/* The Aim — always visible at top */}
           <AimAnchor aim={state.homilyAim} />
+
+          {/* Lectio notes — collapsible, shown if any phase was filled in */}
+          {Object.values(state.lectioNotes || {}).some(v => v?.trim()) && (
+            <div className="mb-6">
+              <button
+                onClick={() => setShowLectio(!showLectio)}
+                className="flex items-center gap-2 text-sm transition-colors mb-2"
+                style={{ color: 'var(--gold)' }}
+                onMouseEnter={e => e.currentTarget.style.color = 'var(--gold-bright)'}
+                onMouseLeave={e => e.currentTarget.style.color = 'var(--gold)'}
+              >
+                <BookOpen size={14} />
+                {showLectio ? 'Hide Lectio notes' : 'Show Lectio notes'}
+              </button>
+              {showLectio && (
+                <div
+                  className="rounded-xl border p-4 space-y-4"
+                  style={{ borderColor: 'var(--border-subtle)', background: 'var(--bg-inset)' }}
+                >
+                  {[
+                    { key: 'lectio',       label: 'Lectio — what I read' },
+                    { key: 'meditatio',    label: 'Meditatio — what I heard' },
+                    { key: 'oratio',       label: 'Oratio — my prayer' },
+                    { key: 'contemplatio', label: 'Contemplatio — what I received' },
+                    { key: 'theTurn',      label: 'The Turn' },
+                  ].filter(p => state.lectioNotes?.[p.key]?.trim()).map(p => (
+                    <div key={p.key}>
+                      <p
+                        className="text-xs font-semibold uppercase tracking-wider mb-1"
+                        style={{ color: 'var(--text-ghost)' }}
+                      >
+                        {p.label}
+                      </p>
+                      <p
+                        className="text-sm leading-relaxed font-serif italic"
+                        style={{ color: 'var(--text-muted)' }}
+                      >
+                        {state.lectioNotes[p.key]}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
 
           {/* Context chips */}
           {(state.tone || state.theme) && (

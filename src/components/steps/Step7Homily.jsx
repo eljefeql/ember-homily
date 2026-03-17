@@ -22,13 +22,13 @@ const SECTION_LABELS = {
 }
 
 const SECTION_ACCENT = {
-  openingStory:  { borderColor: 'var(--gold)', background: 'var(--bg-surface)' },
-  preview:       { background: 'transparent' },
-  gospelAnchor:  { background: 'var(--bg-inset)' },
-  gospelInsight: { background: 'var(--bg-inset)' },
-  gospelBridge:  { background: 'var(--bg-inset)' },
-  mission:       { borderColor: 'var(--accent-red)', background: 'var(--bg-surface)' },
-  closeLoop:     { borderColor: 'var(--gold-dim)', background: 'var(--bg-surface)' },
+  openingStory:  {},
+  preview:       {},
+  gospelAnchor:  {},
+  gospelInsight: {},
+  gospelBridge:  {},
+  mission:       {},
+  closeLoop:     {},
 }
 
 const SECTION_ORDER = [
@@ -154,12 +154,16 @@ function PathWrite({ state, dispatch }) {
 
   // Build reference panel items from prep work
   const prepItems = [
-    state.lectioNotes?.theTurn     && { label: 'The Turn', text: state.lectioNotes.theTurn },
-    state.synthesis?.coreInsight   && { label: 'Core insight', text: state.synthesis.coreInsight },
+    state.lectioNotes?.lectio        && { label: 'Lectio — what I read', text: state.lectioNotes.lectio },
+    state.lectioNotes?.meditatio     && { label: 'Meditatio — what I heard', text: state.lectioNotes.meditatio },
+    state.lectioNotes?.oratio        && { label: 'Oratio — my prayer', text: state.lectioNotes.oratio },
+    state.lectioNotes?.contemplatio  && { label: 'Contemplatio — what I received', text: state.lectioNotes.contemplatio },
+    state.lectioNotes?.theTurn       && { label: 'The Turn', text: state.lectioNotes.theTurn },
+    state.synthesis?.coreInsight     && { label: 'Core insight', text: state.synthesis.coreInsight },
     state.synthesis?.congregationNeed && { label: 'Congregation need', text: state.synthesis.congregationNeed },
-    state.personalStory            && { label: 'Your story', text: state.personalStory },
-    state.congregationMoment       && { label: 'Preaching to', text: state.congregationMoment },
-    state.currentEvents            && { label: 'Current moment', text: state.currentEvents },
+    state.personalStory              && { label: 'Your story', text: state.personalStory },
+    state.congregationMoment         && { label: 'Preaching to', text: state.congregationMoment },
+    state.currentEvents              && { label: 'Current moment', text: state.currentEvents },
   ].filter(Boolean)
 
   const verbumClips = state.synthesis?.verbumClips || []
@@ -217,8 +221,8 @@ function PathWrite({ state, dispatch }) {
                   {verbumClips.map((clip, i) => (
                     <div
                       key={i}
-                      className="rounded-lg p-3 text-sm"
-                      style={{ background: 'var(--bg-surface)', borderLeft: '3px solid var(--gold)' }}
+                      className="rounded-lg p-3 text-sm border"
+                      style={{ background: 'var(--bg-surface)', borderColor: 'var(--border-subtle)' }}
                     >
                       <p className="font-medium mb-0.5" style={{ color: 'var(--text-primary)' }}>{clip.headline}</p>
                       <p className="text-xs leading-relaxed" style={{ color: 'var(--text-muted)' }}>{clip.body}</p>
@@ -278,6 +282,20 @@ function PathWrite({ state, dispatch }) {
 // ─── Path 2: Frame it ────────────────────────────────────────────────
 function PathFrame({ state, dispatch }) {
   const [copied, setCopied] = useState(false)
+  const [showPanel, setShowPanel] = useState(false)
+
+  const prepItems = [
+    state.lectioNotes?.lectio        && { label: 'Lectio — what I read', text: state.lectioNotes.lectio },
+    state.lectioNotes?.meditatio     && { label: 'Meditatio — what I heard', text: state.lectioNotes.meditatio },
+    state.lectioNotes?.oratio        && { label: 'Oratio — my prayer', text: state.lectioNotes.oratio },
+    state.lectioNotes?.contemplatio  && { label: 'Contemplatio — what I received', text: state.lectioNotes.contemplatio },
+    state.lectioNotes?.theTurn       && { label: 'The Turn', text: state.lectioNotes.theTurn },
+    state.synthesis?.coreInsight     && { label: 'Core insight', text: state.synthesis.coreInsight },
+    state.synthesis?.congregationNeed && { label: 'Congregation need', text: state.synthesis.congregationNeed },
+    state.personalStory              && { label: 'Your story', text: state.personalStory },
+    state.congregationMoment         && { label: 'Preaching to', text: state.congregationMoment },
+    state.currentEvents              && { label: 'Current moment', text: state.currentEvents },
+  ].filter(Boolean)
 
   const sections = SECTION_ORDER
     .map(key => ({ key, text: state.framework[key] }))
@@ -309,6 +327,46 @@ function PathFrame({ state, dispatch }) {
 
   return (
     <>
+      {prepItems.length > 0 && (
+        <div className="no-print mb-4">
+          <button
+            onClick={() => setShowPanel(!showPanel)}
+            className="flex items-center gap-2 text-sm transition-colors"
+            style={{ color: 'var(--gold)' }}
+            onMouseEnter={e => e.currentTarget.style.color = 'var(--gold-bright)'}
+            onMouseLeave={e => e.currentTarget.style.color = 'var(--gold)'}
+          >
+            <BookOpen size={14} />
+            {showPanel ? 'Hide prep notes' : 'Show prep notes'}
+          </button>
+          {showPanel && (
+            <div
+              className="rounded-xl border mt-2 mb-4"
+              style={{ borderColor: 'var(--border-subtle)', background: 'var(--bg-inset)' }}
+            >
+              <div className="p-4 space-y-4">
+                {prepItems.map(item => (
+                  <div key={item.label}>
+                    <p
+                      className="text-xs font-semibold uppercase tracking-wider mb-1"
+                      style={{ color: 'var(--text-ghost)' }}
+                    >
+                      {item.label}
+                    </p>
+                    <p
+                      className="text-sm leading-relaxed font-serif italic"
+                      style={{ color: 'var(--text-muted)' }}
+                    >
+                      {item.text}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
       <StatsBar fullText={fullText} tone={state.tone} theme={state.theme} />
       <ActionBar
         onCopy={handleCopy}
@@ -320,47 +378,40 @@ function PathFrame({ state, dispatch }) {
       {/* The assembled homily */}
       <div className="print-area">
         <div className="space-y-0">
-          {sections.map((section) => {
-            const accent = SECTION_ACCENT[section.key] || {}
-            const hasBorder = Boolean(accent.borderColor)
-            return (
-              <div key={section.key} className="group relative">
-                <div className="flex items-center gap-2 mb-2 no-print">
-                  <span
-                    className="text-xs font-semibold uppercase tracking-wider"
-                    style={{ color: 'var(--text-ghost)' }}
-                  >
-                    {SECTION_LABELS[section.key]}
-                  </span>
-                  <div className="flex-1 h-px" style={{ background: 'var(--border-subtle)' }} />
-                  <button
-                    onClick={() => dispatch({ type: 'GO_TO_STEP', step: 6 })}
-                    className="text-xs opacity-0 group-hover:opacity-100 transition-opacity"
-                    style={{ color: 'var(--text-ghost)' }}
-                    onMouseEnter={e => e.currentTarget.style.color = 'var(--gold)'}
-                    onMouseLeave={e => e.currentTarget.style.color = 'var(--text-ghost)'}
-                  >
-                    edit
-                  </button>
-                </div>
-
-                <div
-                  className="rounded-lg p-5 mb-3"
-                  style={{
-                    background: accent.background || 'transparent',
-                    ...(hasBorder ? { borderLeft: `4px solid ${accent.borderColor}` } : {}),
-                  }}
+          {sections.map((section) => (
+            <div key={section.key} className="group relative">
+              <div className="flex items-center gap-2 mb-2 no-print">
+                <span
+                  className="text-xs font-semibold uppercase tracking-wider"
+                  style={{ color: 'var(--text-ghost)' }}
                 >
-                  <p
-                    className="font-serif leading-8 whitespace-pre-wrap text-base"
-                    style={{ color: 'var(--text-primary)' }}
-                  >
-                    {section.text}
-                  </p>
-                </div>
+                  {SECTION_LABELS[section.key]}
+                </span>
+                <div className="flex-1 h-px" style={{ background: 'var(--border-subtle)' }} />
+                <button
+                  onClick={() => dispatch({ type: 'GO_TO_STEP', step: 6 })}
+                  className="text-xs opacity-0 group-hover:opacity-100 transition-opacity"
+                  style={{ color: 'var(--text-ghost)' }}
+                  onMouseEnter={e => e.currentTarget.style.color = 'var(--gold)'}
+                  onMouseLeave={e => e.currentTarget.style.color = 'var(--text-ghost)'}
+                >
+                  edit
+                </button>
               </div>
-            )
-          })}
+
+              <div
+                className="rounded-lg p-5 mb-3 border"
+                style={{ background: 'var(--bg-surface)', borderColor: 'var(--border-subtle)' }}
+              >
+                <p
+                  className="font-serif leading-8 whitespace-pre-wrap text-base"
+                  style={{ color: 'var(--text-primary)' }}
+                >
+                  {section.text}
+                </p>
+              </div>
+            </div>
+          ))}
         </div>
 
         <SourcesFooter readings={state.readings} selectedReadings={state.selectedReadings} />
