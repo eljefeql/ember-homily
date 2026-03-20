@@ -1,5 +1,13 @@
 import { useState } from 'react'
-import { BookOpen, Loader2 } from 'lucide-react'
+import { BookOpen, Loader2, ExternalLink } from 'lucide-react'
+import { useHomily } from '../../context/HomilyContext'
+
+function usccbUrl(date) {
+  if (!date) return null
+  const [year, month, day] = date.split('-')
+  if (!year || !month || !day) return null
+  return `https://bible.usccb.org/bible/readings/${month}${day}${year.slice(2)}.cfm`
+}
 
 // One collapsible reading row — header always visible, text scrolls inside
 function ReadingRow({ label, reference, text, defaultOpen = false, emptyMessage, loading = false }) {
@@ -37,6 +45,7 @@ function ReadingRow({ label, reference, text, defaultOpen = false, emptyMessage,
 // Shared left-column panel used by Steps 3–6
 // readings: array from state.readings  (ids: gospel, first, psalm, second)
 export default function ReadingsPanel({ readings = [], maxHeight = '80vh', loading = false }) {
+  const { state } = useHomily()
   const gospel  = readings.find(r => r.id === 'gospel')
   const first   = readings.find(r => r.id === 'first')
   const psalm   = readings.find(r => r.id === 'psalm')
@@ -109,6 +118,27 @@ export default function ReadingsPanel({ readings = [], maxHeight = '80vh', loadi
           emptyMessage="Complete Step 2 to load the Second Reading."
           loading={loading}
         />
+      )}
+
+      {/* USCCB official readings link — Catholic only */}
+      {state.tradition === 'Catholic' && usccbUrl(state.date) && (
+        <div
+          className="px-4 py-2 border-t flex-shrink-0"
+          style={{ borderColor: 'var(--border-subtle)' }}
+        >
+          <a
+            href={usccbUrl(state.date)}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1.5 text-xs transition-colors"
+            style={{ color: 'var(--text-ghost)' }}
+            onMouseEnter={e => e.currentTarget.style.color = 'var(--gold)'}
+            onMouseLeave={e => e.currentTarget.style.color = 'var(--text-ghost)'}
+          >
+            <ExternalLink size={10} />
+            Official USCCB readings
+          </a>
+        </div>
       )}
     </div>
   )
