@@ -119,7 +119,7 @@ export async function fetchAllReadings(readings) {
   const results = await Promise.all(
     readings.map(async (reading) => {
       const text = await fetchPassage(reading.reference)
-      return { ...reading, text, translation: data.translation || 'NRSV' }
+      return { ...reading, text, translation: 'NRSV' }
     })
   )
   return results
