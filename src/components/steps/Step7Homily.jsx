@@ -4,7 +4,7 @@ import SectionHeader from '../ui/SectionHeader'
 import TextArea from '../ui/TextArea'
 import AimAnchor from '../ui/AimAnchor'
 import { estimateReadingTime, wordCount } from '../../lib/utils'
-import { streamHomilyDraft } from '../../lib/claudeApi'
+import { streamHomilyDraft, reviewHomilyDraft } from '../../lib/claudeApi'
 import {
   Printer, Copy, RotateCcw, Check, PenLine, LayoutTemplate,
   Sparkles, BookOpen, X, Loader2, StopCircle,
@@ -420,18 +420,34 @@ function PathFrame({ state, dispatch }) {
   )
 }
 
+// ─── Review item helper ───────────────────────────────────────────────
+function ReviewItem({ pass, label, note }) {
+  return (
+    <div className="flex gap-2 items-start text-sm">
+      <span style={{ color: pass ? '#4ade80' : 'var(--text-faint)', flexShrink: 0, marginTop: 1 }}>
+        {pass ? '✓' : '○'}
+      </span>
+      <div>
+        <span className="font-medium" style={{ color: 'var(--text-primary)' }}>{label}</span>
+        {note && <p className="mt-0.5" style={{ color: 'var(--text-muted)' }}>{note}</p>}
+      </div>
+    </div>
+  )
+}
+
 // ─── Path 3: Draft with Claude ───────────────────────────────────────
 function PathDraft({ state, dispatch }) {
   const [status, setStatus] = useState('idle') // idle | streaming | done | error
   const [draft, setDraft] = useState(state.finalHomily || '')
   const [copied, setCopied] = useState(false)
   const [errorMsg, setErrorMsg] = useState('')
+  const [reviewing, setReviewing] = useState(false)
+  const [review, setReview] = useState(null)
   const abortRef = useRef(null)
   const draftRef = useRef('')
   const textareaEndRef = useRef(null)
 
   const words = wordCount(draft)
-  const hasKey = true // Key is injected server-side via Vite proxy — always allow
 
   // Keep draft in context when it changes
   useEffect(() => {
@@ -441,6 +457,7 @@ function PathDraft({ state, dispatch }) {
   async function handleGenerate() {
     setStatus('streaming')
     setErrorMsg('')
+    setReview(null)
     draftRef.current = ''
     setDraft('')
 
@@ -450,13 +467,16 @@ function PathDraft({ state, dispatch }) {
       (chunk) => {
         draftRef.current += chunk
         setDraft(draftRef.current)
-        // Scroll to bottom as text arrives
         textareaEndRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
       },
-      // onDone
-      (fullText) => {
+      // onDone — trigger review pass
+      async (fullText) => {
         setDraft(fullText)
         setStatus('done')
+        setReviewing(true)
+        const result = await reviewHomilyDraft(fullText, state)
+        setReview(result)
+        setReviewing(false)
       },
       // onError
       (err) => {
@@ -478,14 +498,8 @@ function PathDraft({ state, dispatch }) {
     setTimeout(() => setCopied(false), 2000)
   }
 
-  // Observations Claude could make after generating (shown post-draft)
-  const hasAim = state.homilyAim?.action || state.homilyAim?.because
-  const hasStory = Boolean(state.personalStory)
-
   return (
     <div>
-      {/* API key warning — only shown if proxy returns auth error */}
-
       {/* Generate button / status */}
       {status === 'idle' && (
         <div className="mb-6">
@@ -506,7 +520,7 @@ function PathDraft({ state, dispatch }) {
             <div className="space-y-1 mb-4">
               {[
                 { label: 'The Aim', present: Boolean(state.homilyAim?.action) },
-                { label: 'Personal story', present: hasStory },
+                { label: 'Personal story', present: Boolean(state.personalStory) },
                 { label: 'Lectio notes (incl. The Turn)', present: Boolean(state.lectioNotes?.theTurn || state.lectioNotes?.meditatio) },
                 { label: 'Verbum clips', present: (state.synthesis?.verbumClips?.length || 0) > 0, count: state.synthesis?.verbumClips?.length },
                 { label: 'Community context', present: Boolean(state.currentEvents || state.congregationMoment) },
@@ -530,12 +544,7 @@ function PathDraft({ state, dispatch }) {
               ))}
             </div>
 
-            <button
-              onClick={handleGenerate}
-              disabled={!hasKey}
-              className="btn-primary flex items-center gap-2"
-              style={!hasKey ? { opacity: 0.5, cursor: 'not-allowed' } : {}}
-            >
+            <button onClick={handleGenerate} className="btn-primary flex items-center gap-2">
               <Sparkles size={15} />
               Draft the homily
             </button>
@@ -575,21 +584,17 @@ function PathDraft({ state, dispatch }) {
       {(status === 'streaming' || status === 'done' || draft) && (
         <div>
           {status === 'done' && words > 0 && (
-            <>
-              <ActionBar
-                onCopy={handleCopy}
-                copied={copied}
-                onPrint={() => window.print()}
-                onBack={() => dispatch({ type: 'GO_TO_STEP', step: 6 })}
-              />
-            </>
+            <ActionBar
+              onCopy={handleCopy}
+              copied={copied}
+              onPrint={() => window.print()}
+              onBack={() => dispatch({ type: 'GO_TO_STEP', step: 6 })}
+            />
           )}
 
           <TextArea
             value={draft}
-            onChange={(val) => {
-              setDraft(val)
-            }}
+            onChange={(val) => setDraft(val)}
             placeholder=""
             rows={24}
             showCount
@@ -601,32 +606,75 @@ function PathDraft({ state, dispatch }) {
             <>
               <StatsBar fullText={draft} tone={state.tone} theme={state.theme} />
 
-              {/* Post-draft observation */}
+              {/* AI review panel */}
               <div
                 className="rounded-xl border p-4 mt-2 mb-4 no-print"
                 style={{ borderColor: 'var(--border-subtle)', background: 'var(--bg-inset)' }}
               >
-                <p className="text-xs font-semibold uppercase tracking-wider mb-2" style={{ color: 'var(--text-ghost)' }}>
-                  A few things to check
-                </p>
-                <ul className="space-y-1.5">
-                  {[
-                    hasAim && `Does the homily land on "${state.homilyAim.action}"? That was your aim.`,
-                    hasStory && 'Read the opening story aloud — does it sound like you?',
-                    'Is there one moment in the middle that would surprise someone who wasn\'t expecting it?',
-                    'Does the closing echo the opening? Read just those two pieces back to back.',
-                    'Where does it feel like a document? That\'s where to loosen the language.',
-                  ].filter(Boolean).map((obs, i) => (
-                    <li key={i} className="flex items-start gap-2 text-xs" style={{ color: 'var(--text-muted)' }}>
-                      <span style={{ color: 'var(--gold)', flexShrink: 0 }}>→</span>
-                      {obs}
-                    </li>
-                  ))}
-                </ul>
+                {reviewing && (
+                  <div className="flex items-center gap-2">
+                    <Loader2 size={13} className="animate-spin" style={{ color: 'var(--gold)' }} />
+                    <p className="text-sm italic" style={{ color: 'var(--text-muted)' }}>Reviewing draft…</p>
+                  </div>
+                )}
+
+                {review && !reviewing && (
+                  <div className="space-y-3">
+                    <p className="text-xs font-semibold uppercase tracking-wider mb-3" style={{ color: 'var(--text-ghost)' }}>
+                      Quality notes
+                    </p>
+
+                    <ReviewItem
+                      pass={review.aimLands}
+                      label="Lands on the aim"
+                      note={review.aimNote}
+                    />
+                    <ReviewItem
+                      pass={review.openingAuthenticSounds}
+                      label="Opens in your voice"
+                      note={review.openingNote}
+                    />
+                    <ReviewItem
+                      pass={review.traditionFit}
+                      label={`Fits ${state.tradition || 'Catholic'} sensibility`}
+                      note={review.traditionNote}
+                    />
+
+                    {review.surpriseMoment && (
+                      <div className="text-sm pt-1">
+                        <span className="font-medium" style={{ color: 'var(--text-primary)' }}>Most alive line: </span>
+                        <em style={{ color: 'var(--text-muted)' }}>"{review.surpriseMoment}"</em>
+                      </div>
+                    )}
+
+                    {review.weakestMoment && (
+                      <div className="text-sm">
+                        <span className="font-medium" style={{ color: 'var(--text-primary)' }}>Cut or rewrite: </span>
+                        <em style={{ color: 'var(--text-muted)' }}>"{review.weakestMoment}"</em>
+                      </div>
+                    )}
+
+                    {review.oneEdit && (
+                      <div
+                        className="rounded-lg p-3 text-sm border mt-2"
+                        style={{ background: 'var(--bg-surface)', borderColor: 'var(--border-subtle)' }}
+                      >
+                        <span className="font-medium" style={{ color: 'var(--text-primary)' }}>Before you deliver this: </span>
+                        <span style={{ color: 'var(--text-body)' }}>{review.oneEdit}</span>
+                      </div>
+                    )}
+                  </div>
+                )}
+
+                {!reviewing && !review && (
+                  <p className="text-xs" style={{ color: 'var(--text-ghost)' }}>
+                    Quality review unavailable — check your Anthropic key in Netlify.
+                  </p>
+                )}
               </div>
 
               <button
-                onClick={() => { setStatus('idle'); setDraft(''); draftRef.current = '' }}
+                onClick={() => { setStatus('idle'); setDraft(''); setReview(null); draftRef.current = '' }}
                 className="btn-ghost text-xs flex items-center gap-1.5 no-print"
                 style={{ color: 'var(--text-faint)' }}
               >
