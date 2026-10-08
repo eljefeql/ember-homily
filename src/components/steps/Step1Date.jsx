@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useHomily } from '../../context/HomilyContext'
 import { getLiturgicalSeason, getLiturgicalYear, getSundayName } from '../../data/lectionary'
 import { FIXED_FEAST_NAMES } from '../../data/specialReadings'
+import { getEpiscopalInfo, EPISCOPAL_FEAST_NAMES } from '../../data/episcopalCalendar'
 import { formatDate } from '../../lib/utils'
 import SectionHeader from '../ui/SectionHeader'
 import { CalendarDays, Church, Search } from 'lucide-react'
@@ -37,13 +38,33 @@ export default function Step1Date() {
   function handleDateChange(e) {
     const date = e.target.value
     if (!date) return
-    const season = getLiturgicalSeason(date)
-    const litYear = getLiturgicalYear(date)
-    const sundayName = getSundayName(date)
+    dispatch({ type: 'SET_DATE_INFO', payload: { date, observe: '', ...liturgicalInfo(date, state.tradition) } })
+  }
+
+  // Season / year / Sunday name for a date, in the chosen tradition's calendar
+  function liturgicalInfo(date, tradition) {
+    if (tradition === 'Episcopal') {
+      const info = getEpiscopalInfo(date)
+      return { liturgicalSeason: info.season, liturgicalYear: info.liturgicalYear, sundayName: info.sundayName }
+    }
+    return {
+      liturgicalSeason: getLiturgicalSeason(date),
+      liturgicalYear: getLiturgicalYear(date),
+      sundayName: getSundayName(date),
+    }
+  }
+
+  function handleTraditionChange(tradition) {
     dispatch({
       type: 'SET_DATE_INFO',
-      payload: { date, liturgicalSeason: season, liturgicalYear: litYear, sundayName },
+      payload: {
+        tradition,
+        observe: '',
+        track: 1,
+        ...(state.date ? liturgicalInfo(state.date, tradition) : {}),
+      },
     })
+    setFeastSuggestions([])
   }
 
   function handleOccasionChange(o) {
@@ -68,7 +89,8 @@ export default function Step1Date() {
       setFeastSuggestions([])
       return
     }
-    const matches = FIXED_FEAST_NAMES.filter(name =>
+    const names = state.tradition === 'Episcopal' ? EPISCOPAL_FEAST_NAMES : FIXED_FEAST_NAMES
+    const matches = names.filter(name =>
       name.toLowerCase().includes(query.toLowerCase())
     ).slice(0, 6)
     setFeastSuggestions(matches)
@@ -100,8 +122,15 @@ export default function Step1Date() {
     'Ordinary Time': 'text-green-400',
     'Pentecost': 'text-red-400',
     'Trinity Sunday': 'text-white',
+    'Epiphany': 'text-green-400',
+    'Holy Week': 'text-red-400',
+    'Season after Pentecost': 'text-green-400',
   }
   const seasonColor = seasonColors[state.liturgicalSeason] || 'text-parchment-200'
+  const isEpiscopal = state.tradition === 'Episcopal'
+  // Display-only wording for the Episcopal tradition (stored occasion values are unchanged)
+  const episcopalLabels = { 'Sunday Mass': 'Sunday Eucharist', 'Daily Mass': 'Weekday', "Children's Mass": "Children's Eucharist", 'School Mass': 'School Eucharist', 'Funeral Mass': 'Burial', 'Wedding': 'Marriage', 'Holy Day / Feast': 'Holy Day' }
+  const occasionLabel = o => (isEpiscopal && episcopalLabels[o]) || o
 
   const showFeastSearch = state.occasion === 'Holy Day / Feast'
   const showDatePicker = !PICKER_OCCASIONS.includes(state.occasion) && !FEAST_OCCASIONS.includes(state.occasion)
@@ -123,7 +152,7 @@ export default function Step1Date() {
             {TRADITIONS.map((t) => (
               <button
                 key={t.id}
-                onClick={() => dispatch({ type: 'SET_DATE_INFO', payload: { tradition: t.id } })}
+                onClick={() => handleTraditionChange(t.id)}
                 className={`flex items-center gap-2 px-4 py-3 rounded-lg border transition-all duration-200 text-sm font-medium ${
                   state.tradition === t.id
                     ? 'border-gold-500 bg-gold-500/10 text-gold-400'
@@ -151,7 +180,7 @@ export default function Step1Date() {
                     : 'border-slate-700 text-slate-500 hover:border-slate-500 hover:text-slate-300'
                 }`}
               >
-                {o}
+                {occasionLabel(o)}
               </button>
             ))}
           </div>
@@ -163,7 +192,7 @@ export default function Step1Date() {
             <label className="section-label block mb-3">
               <span className="flex items-center gap-2">
                 <Search size={14} />
-                Which feast or solemnity?
+                {isEpiscopal ? 'Which Holy Day?' : 'Which feast or solemnity?'}
               </span>
             </label>
             <div className="relative max-w-sm">
@@ -171,7 +200,7 @@ export default function Step1Date() {
                 type="text"
                 value={feastQuery}
                 onChange={(e) => handleFeastSearch(e.target.value)}
-                placeholder="e.g. Immaculate Conception, All Saints..."
+                placeholder={isEpiscopal ? 'e.g. All Saints, Saint Michael, Ascension Day...' : 'e.g. Immaculate Conception, All Saints...'}
                 className="input-field w-full"
                 autoFocus
               />
@@ -224,7 +253,9 @@ export default function Step1Date() {
             style={{ background: 'var(--bg-surface)', borderLeft: '3px solid var(--gold)' }}
           >
             <p style={{ color: 'var(--text-muted)' }}>
-              The readings for Ash Wednesday are fixed every year: Joel 2, Psalm 51, 2 Corinthians 5–6, and Matthew 6.
+              {isEpiscopal
+                ? 'The lessons for Ash Wednesday are the same every year: Joel 2 (or Isaiah 58), Psalm 103, 2 Corinthians 5–6, and Matthew 6.'
+                : 'The readings for Ash Wednesday are fixed every year: Joel 2, Psalm 51, 2 Corinthians 5–6, and Matthew 6.'}
             </p>
           </div>
         )}
@@ -316,6 +347,9 @@ function getSeasonDescription(season) {
     'Easter': 'The fifty days of Easter are a season of astonishment. The resurrection has happened and the disciples are still catching up. Easter preaching should feel alive, even a little disoriented — the world has changed.',
     'Ordinary Time': 'Ordinary Time is not unimportant time — it is the long stretch where faith becomes a way of life. The preacher in Ordinary Time helps people find the sacred in the everyday.',
     'Pentecost': 'Pentecost is the great outpouring — the moment the Spirit falls and the church is born. Preaching on this day is about fire, breath, courage, and being sent.',
+    'Epiphany': 'The season of Epiphany unfolds the manifestation of Christ — to the magi, at the Jordan, at Cana, on the mountain. It moves from light revealed to light understood, and ends at the threshold of Lent with the Transfiguration.',
+    'Holy Week': 'Holy Week walks the final days — the palms, the table, the cross, the silence. Preaching here is less about explaining than about accompanying.',
+    'Season after Pentecost': 'The long green season after Pentecost is the church\'s ordinary life: following Jesus through the Gospel in sequence. Choose Track 1 or Track 2 for the Old Testament and stay with it through the season.',
     'Trinity Sunday': 'Trinity Sunday invites the preacher not to explain the doctrine but to celebrate the mystery — a God who is community, relationship, love in motion.',
   }
   return descriptions[season] || 'Select a date to see the liturgical context for this celebration.'

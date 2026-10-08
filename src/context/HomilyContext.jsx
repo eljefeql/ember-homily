@@ -35,6 +35,8 @@ const initialState = {
   sundayName: '',
   liturgicalYear: '',
   feastName: '',         // for Holy Day / Feast occasions
+  track: 1,              // Episcopal RCL: Track 1 or Track 2 (Season after Pentecost)
+  observe: '',           // Episcopal: alternate observance chosen for the date (lectionary key)
 
   // Step 2 reading mode
   translationDefault: 'NABRE',   // 'NABRE' | 'CEV' | 'GNT'
@@ -154,6 +156,25 @@ function reducer(state, action) {
           ...state.synthesis,
           verbumClips: state.synthesis.verbumClips.filter((_, i) => i !== action.index),
         },
+      }
+    case 'SWAP_ALTERNATE':
+      // Use an alternate lesson in place of the printed one (the old one becomes an alternate)
+      return {
+        ...state,
+        readings: state.readings.map(r => {
+          if (r.id !== action.id) return r
+          const rest = (r.alternates || []).filter(a => a !== action.reference)
+          return { ...r, reference: action.reference, alternates: [r.reference, ...rest], text: '' }
+        }),
+      }
+    case 'MERGE_READING_TEXTS':
+      // Fill in fetched text only where the lesson on screen is still the one that was fetched
+      return {
+        ...state,
+        readings: state.readings.map(r => {
+          const p = action.readings.find(x => x.id === r.id && x.reference === r.reference)
+          return p ? { ...r, text: p.text, translation: p.translation } : r
+        }),
       }
     case 'PATCH_READING_TEXT':
       return {

@@ -1,0 +1,10310 @@
+{
+ "Various_LaborDay": {
+  "title": "Labor Day",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Sirach (Ecclesiasticus) 38:27-32a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 107:1-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 90:1-2,16-17",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 3:10-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 6:19-24",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Christmas_Christmas1": {
+  "title": "First Sunday after Christmas Day",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 61:10-62:3",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 147 or 147:13-21",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Galatians 3:23-25; 4:4-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 1:1-18",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Christmas_Christmas2": {
+  "title": "Second Sunday after Christmas Day",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 31:7-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 84 or 84:1-8",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Ephesians 1:3-6,15-19a",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 2:13-15,19-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Luke 2:41-52",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp3",
+    "ref": "Matthew 2:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Christmas_ChrsDay1": {
+  "title": "Christmas Day",
+  "info": null,
+  "items": []
+ },
+ "YearABC_Christmas_ChrsDay3": {
+  "title": "Christmas Day",
+  "info": null,
+  "items": []
+ },
+ "YearABC_Christmas_HolyName": {
+  "title": "The Holy Name",
+  "info": null,
+  "items": []
+ },
+ "YearABC_Easter_EasFri": {
+  "title": "Friday in Easter Week",
+  "info": "All Years",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 4:1-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 116:1-8",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:19-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 21:1-14",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Easter_EasMon": {
+  "title": "Monday in Easter Week",
+  "info": "All Years",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 2:14,22b-32",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 16:8-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:19-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 28:9-15",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Easter_EasSat": {
+  "title": "Saturday in Easter Week",
+  "info": "All Years",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 4:13-21",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:14-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:19-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 16:9-15,20",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Easter_EasThur": {
+  "title": "Thursday in Easter Week",
+  "info": "All Years",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 3:11-26",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 8",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 114",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:19-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:36b-48",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Easter_EasTues": {
+  "title": "Tuesday in Easter Week",
+  "info": "All Years",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 2:36-41",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 33:18-22",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:19-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:11-18",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Easter_EasVigil": {
+  "title": "The Great Vigil of Easter",
+  "info": null,
+  "items": []
+ },
+ "YearABC_Easter_EasWed": {
+  "title": "Wednesday in Easter Week",
+  "info": "All Years",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 3:1-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 105:1-8",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:19-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:13-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_Easter_EasterEarly": {
+  "title": "Easter Day",
+  "info": null,
+  "items": []
+ },
+ "YearABC_HolyDays_Andrew": {
+  "title": "Saint Andrew",
+  "info": "November 30",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 30:11-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 19 or 19:1-6",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 10:8b-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 4:18-22",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Barnabas": {
+  "title": "St. Barnabas",
+  "info": "June 11",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 42:5-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 112",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 11:19-30;13:1-3",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 10:7-16",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Barth": {
+  "title": "Saint Bartholomew",
+  "info": "August 24",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 18:15-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 91 or 91:1-4",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 4:9-15",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 22:24-30",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_ConfPetr": {
+  "title": "Confession of Saint Peter the Apostle",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 4: 8-13",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 23",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 5:1-4",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 16:13-19",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_ConvPaul": {
+  "title": "Conversion of Saint Paul the Apostle",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 26:9-21",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 67",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 1:11-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 10:16-22",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_HolyCros": {
+  "title": "Holy Cross Day",
+  "info": "More_Info",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 45:21-25",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 98 or 98:1-4",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 2:5-11",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 6:14-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 12:31-36a",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_HolyInno": {
+  "title": "Holy Innocents",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 31:15-17",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 124",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Revelation 21:1-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 2:13-18",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Indepen": {
+  "title": "Independence Day",
+  "info": "July 4",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 10:17-21",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 145 or 145:1-9",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 11:8-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 5:43-48",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_James": {
+  "title": "Saint James",
+  "info": "July 25",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 45:1-5",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 7:1-10",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Second Reading",
+    "id": "nt1",
+    "ref": "Acts 11:27-12:3",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 20:20-28",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_JamesJer": {
+  "title": "Saint James of Jerusalem",
+  "info": "October 23",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Acts 15:12-22a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 1",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:1-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 13:54-58",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_John": {
+  "title": "St. John",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 33:18-23",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 92 or 92:1-4,11-14",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 John 1:1-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 21:19b-24",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Joseph": {
+  "title": "Saint Joseph",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 7:4,8-16",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 89:1-29 or 89:1-4, 26-29",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 4:13-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 2:41-52",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Luke": {
+  "title": "Saint Luke",
+  "info": "October 18",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Sirach 38:1-4,6-10,12-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 147 or 147:1-7",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Timothy 4:5-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 4:14-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Mark": {
+  "title": "Saint Mark",
+  "info": "April 25",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 52:7-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 2 or 2:7-10",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 4:7-8,11-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:1-15",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 16:15-20",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_MaryMag": {
+  "title": "Saint Mary Magdalene",
+  "info": "July 22",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Judith 9:1,11-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 42:1-7",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 5:14-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:11-18",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_MaryVirg": {
+  "title": "Saint Mary the Virgin",
+  "info": "August 15",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 61:10-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 34 or 34:1-9",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 4:4-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 1:46-55",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Matthew": {
+  "title": "Saint Matthew",
+  "info": "September 21",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Proverbs 3:1-6",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 119:33-40",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Timothy 3:14-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 9:9-13",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Matthias": {
+  "title": "Saint Matthias the Apostle",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 1:15-26",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 15",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 3:13-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 15:1,6-16",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Michael": {
+  "title": "Saint Michael and All Angels",
+  "info": "September 29",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 28:10-17",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 103 or 103:19-22",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Revelation 12:7-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 1:47-51",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_NatJohn": {
+  "title": "Nativity of St. John the Baptist",
+  "info": "June 24",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 40:1-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 85 or 85:7-13",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 13:14b-26",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 1:57-80",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_PetPaul": {
+  "title": "Saint Peter & Saint Paul",
+  "info": "June 29",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Ezekiel 34:11-16",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 87",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Timothy 4:1-8",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 21:15-19",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_PhilJames": {
+  "title": "Saint Philip and Saint James",
+  "info": "May 1",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 30:18-21",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 119:33-40",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 4:1-6",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 14:6-14",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Present": {
+  "title": "The Presentation",
+  "info": "February 2 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Malachi 3:1-4",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 84",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 24:7-10",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 2:14-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 2:22-40",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_SimnJude": {
+  "title": "Saint Simon and Saint Jude",
+  "info": "October 28",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 32:1-4",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 119:89-96",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 2:13-22",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 15:17-27",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Stephen": {
+  "title": "Saint Stephen",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 26:1-9,12-15",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 31 or 31:1-5",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 6:8-7:2a,51c-60",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 23:34-39",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Thanks": {
+  "title": "Thanksgiving Day",
+  "info": null,
+  "items": []
+ },
+ "YearABC_HolyDays_Thomas": {
+  "title": "Saint Thomas",
+  "info": "December 21",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Habakkuk 2:1-4",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 126",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 10:35-11:1",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:24-29",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyDays_Transfig": {
+  "title": "The Transfiguration",
+  "info": "August 6",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 34:29-35",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 99 or 99:5-9",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Peter 1:13-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 9:28-36",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_HolyWk_HolySat": {
+  "title": "Holy Saturday",
+  "info": null,
+  "items": []
+ },
+ "YearABC_Lent_AshWed": {
+  "title": "Ash Wednesday",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Joel 2:1-2,12-17",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 58:1-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 103 or 103:8-14",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 5:20b-6:10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 6:1-6,16-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_Christmas_ChrsDay1_RCL": {
+  "title": "Christmas Day",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 9:2-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 96",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Titus 2:11-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 2:1-14(15-20)",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_Christmas_ChrsDay2_RCL": {
+  "title": "Christmas Day",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 62:6-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 97",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Titus 3:4-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 2:(1-7) 8-20",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_Christmas_ChrsDay3_RCL": {
+  "title": "Christmas Day",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 52:7-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 98",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Hebrews 1:1-4,(5-12)",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 1:1-14",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_Christmas_HolyName_RCL": {
+  "title": "The Holy Name",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Numbers 6:22-27",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 8",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Galatians 4:4-7",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt2",
+    "ref": "Philippians 2:5-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 2:15-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_Easter_EasterEven_RCL": {
+  "title": "Easter Day",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 25:6-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 114",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 5:6b-8",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:13-49",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_Epiphany_Epiph_RCL": {
+  "title": "The Epiphany",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 60:1-6",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 72:1-7,10-14",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Ephesians 3:1-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 2:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyDays_Annunc_RCL": {
+  "title": "The Annunciation",
+  "info": "March 25 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 7:10-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 45",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 40:5-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 15",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 10:4-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 1:26-38",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyDays_HolyCros_RCL": {
+  "title": "Holy Cross Day",
+  "info": "September 14 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 45:21-25",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 98 or 98:1-4",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 2:5-11",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 6:14-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 12:31-36a",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyDays_Present_RCL": {
+  "title": "The Presentation of Our Lord",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Malachi 3:1-4",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 84",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 24:7-10",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Hebrews 2:14-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 2:22-40",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyDays_Visit_RCL": {
+  "title": "The Visitation",
+  "info": "May 31 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Samuel 2:1-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 113",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 12:9-16b",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 1:39-57",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyWk_GoodFri_RCL": {
+  "title": "Good Friday",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 52:13-53:12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 22",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 10:16-25",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 4:14-16; 5:7-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 18:1-19:42",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyWk_HolyMon_RCL": {
+  "title": "Monday in Holy Week",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 42:1-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 36:5-11",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 9:11-15",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 12:1-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyWk_HolySat_RCL": {
+  "title": "Holy Saturday",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Job 14:1-14",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Lamentations 3:1-9, 19-24",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 31:1-4, 15-16",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 4:1-8",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 27:57-66",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 19:38-42",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyWk_HolyTue_RCL": {
+  "title": "Tuesday in Holy Week",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 49:1-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 71:1-14",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 1:18-31",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 12:20-36",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyWk_HolyWed_RCL": {
+  "title": "Wednesday in Holy Week",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 50:4-9a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 70",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 12:1-3",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 13:21-32",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_RCL_HolyWk_MaundyTh_RCL": {
+  "title": "Maundy Thursday",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 12:1-4, (5-10), 11-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 116:1, 10-17",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 11:23-26",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 13:1-17, 31b-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_SpecServ_AdventLessonsAndCarols": {
+  "title": "Festival of Lessons and Carols for Advent",
+  "info": null,
+  "items": []
+ },
+ "YearABC_SpecServ_Baptism": {
+  "title": "Holy Baptism",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Ezekiel 36:24-28",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 15",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 23",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps3",
+    "ref": "Psalm 27",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps4",
+    "ref": "Psalm 42:1-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps5",
+    "ref": "Psalm 84",
+    "track": 0
+   },
+   {
+    "role": "canticle",
+    "heading": "The Canticle",
+    "id": "ps6",
+    "ref": "Canticle 9 Page 86, BCP",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "ep2",
+    "ref": "Romans 8:14-17",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "ep3",
+    "ref": "2 Corinthians 5:17-20",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:9-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Mark 10:13-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp3",
+    "ref": "John 3:1-6",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_SpecServ_Burial": {
+  "title": "Burial of the Dead",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 25:6-9",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 61:1-3",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot3",
+    "ref": "Lamentations 3:22-26,31-33",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot4",
+    "ref": "Wisdom 3:1-5,9",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot5",
+    "ref": "Job 19:21-27a",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 8:14-19,34-35,37-39",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt2",
+    "ref": "1 Corinthians 15:20-26,35-38,42-44,53-58",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt3",
+    "ref": "2 Corinthians 4:16--5:9",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt4",
+    "ref": "1 John 3:1-2",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt5",
+    "ref": "Revelation 7:9-17",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt6",
+    "ref": "Revelation 21:2-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 5:24-27",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "John 6:37-40",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp3",
+    "ref": "John 10:11-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp4",
+    "ref": "John 11:21-27",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp5",
+    "ref": "John 14:1-6",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps23",
+    "ref": "Psalm 23",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps27",
+    "ref": "Psalm 27",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps42",
+    "ref": "Psalm 42:1-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps46",
+    "ref": "Psalm 46",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps90",
+    "ref": "Psalm 90:1-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps106",
+    "ref": "Psalm 106:1-5",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps116",
+    "ref": "Psalm 116",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps121",
+    "ref": "Psalm 121",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps130",
+    "ref": "Psalm 130",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps139",
+    "ref": "Psalm 139:1-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_SpecServ_BurialEOW3": {
+  "title": "Burial of the Dead",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 25:[6-7] 8-9",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Daniel 12:1-3",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot3",
+    "ref": "Wisdom 1:13-15",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot4",
+    "ref": "Job 14:7-9 [10-12]",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 6:3-9 [10-11]",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt2",
+    "ref": "Romans 8:14-19,[34-35,37-39]",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt3",
+    "ref": "Romans 14:7-9",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt4",
+    "ref": "1 Corinthians 15:20-26",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt5",
+    "ref": "1 Corinthians 15:51-58",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt6",
+    "ref": "2 Corinthians 5:1-9",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt7",
+    "ref": "1 Peter 1:3-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 11:25-30",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Luke 24:13-16 [17-35]",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp3",
+    "ref": "John 20:11-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps23",
+    "ref": "Psalm 23",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps27",
+    "ref": "Psalm 27",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps42",
+    "ref": "Psalm 42:1-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps46",
+    "ref": "Psalm 46",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps90",
+    "ref": "Psalm 90:1-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps106",
+    "ref": "Psalm 106:1-5",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps116",
+    "ref": "Psalm 116",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps118",
+    "ref": "Psalm 118:14-29",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps121",
+    "ref": "Psalm 121",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps130",
+    "ref": "Psalm 130",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps139",
+    "ref": "Psalm 139:1-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearABC_SpecServ_ChristmasLessonsAndCarols": {
+  "title": "Festival of Lessons and Carols for Christmas",
+  "info": null,
+  "items": []
+ },
+ "YearABC_SpecServ_Dedicate": {
+  "title": null,
+  "info": null,
+  "items": []
+ },
+ "YearABC_SpecServ_KingsCollegeLessonsAndCarols": {
+  "title": "Festival of Lessons and Carols",
+  "info": null,
+  "items": []
+ },
+ "YearABC_SpecServ_Marriage": {
+  "title": "The Celebration and Blessing",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_APentDay": {
+  "title": "Day of Pentecost",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp13": {
+  "title": "Sunday closest to August 3",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp16": {
+  "title": "Sunday closest to August 24",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp17": {
+  "title": "Sunday closest to August 31",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp18": {
+  "title": "Sunday closest to September 7",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp19": {
+  "title": "Sunday closest to September 14",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp20": {
+  "title": "Sunday closest to September 21",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp21": {
+  "title": "Sunday closest to September 28",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp22": {
+  "title": "Sunday closest to October 5",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp23": {
+  "title": "Sunday closest to October 12",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp24": {
+  "title": "Sunday closest to October 19",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp25": {
+  "title": "Sunday closest to October 26",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp26": {
+  "title": "Sunday closest to November 2",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp27": {
+  "title": "Sunday closest to November 9",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp28": {
+  "title": "Sunday closest to November 16",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp8": {
+  "title": "Sunday closest to June 29",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_AProp9": {
+  "title": "Sunday closest to July 6",
+  "info": null,
+  "items": []
+ },
+ "YearA_Pentecost_ATrinity": {
+  "title": "First Sunday after Pentecost: Trinity Sunday",
+  "info": null,
+  "items": []
+ },
+ "YearA_RCL_Advent_AAdv1_RCL": {
+  "title": "First Sunday of Advent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 2:1-5",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 122",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 13:11-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 24:36-44",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Advent_AAdv2_RCL": {
+  "title": "Second Sunday of Advent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 11:1-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 72:1-7, 18-19",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 15:4-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 3:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Advent_AAdv3_RCL": {
+  "title": "Third Sunday of Advent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 35:1-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 146:4-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 15 Page 91, BCP",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "James 5:7-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 11:2-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Advent_AAdv4_RCL": {
+  "title": "Fourth Sunday of Advent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 7:10-16",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 80:1-7, 16-18",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 1:1-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 1:18-25",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Easter_AAscension_RCL": {
+  "title": "Ascension Day",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 1:1-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 47",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 93",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 1:15-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:44-53",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Easter_AEasVigil_RCL": {
+  "title": "The Great Vigil of Easter",
+  "info": null,
+  "items": []
+ },
+ "YearA_RCL_Easter_AEaster2_RCL": {
+  "title": "Second Sunday of Easter",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 2:14a,22-32",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 16",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 1:3-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:19-31",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Easter_AEaster3_RCL": {
+  "title": "Third Sunday of Easter",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 2:14a,36-41",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 116:1-3, 10-17",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 1:17-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:13-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Easter_AEaster4_RCL": {
+  "title": "Fourth Sunday of Easter",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 2:42-47",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 23",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 2:19-25",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 10:1-10",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Easter_AEaster5_RCL": {
+  "title": "Fifth Sunday of Easter",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 7:55-60",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 31:1-5, 15-16",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 2:2-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 14:1-14",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Easter_AEaster6_RCL": {
+  "title": "Sixth Sunday of Easter",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 17:22-31",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 66:7-18",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 3:13-22",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 14:15-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Easter_AEaster7_RCL": {
+  "title": "Seventh Sunday of Easter",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 1:6-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 68:1-10, 33-36",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 4:12-14; 5:6-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 17:1-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Easter_AEasterPrin_RCL": {
+  "title": "Easter Day",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 10:34-43",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Jeremiah 31:1-6",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 118:1-2, 14-24",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Colossians 3:1-4",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Acts 10:34-43",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:1-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 28:1-10",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi1_RCL": {
+  "title": "First Sunday after the Epiphany",
+  "info": "The Baptism of our Lord | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 42:1-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 29",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 10:34-43",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 3:13-17",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi2_RCL": {
+  "title": "Second Sunday after Epiphany",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 49:1-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 40:1-12",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 1:1-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 1:29-42",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi3_RCL": {
+  "title": "Third Sunday after the Epiphany",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 9:1-4",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 27:1, 5-13",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 1:10-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 4:12-23",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi4_RCL": {
+  "title": "Fourth Sunday after the Epiphany",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Micah 6:1-8",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 15",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 1:18-31",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 5:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi5_RCL": {
+  "title": "Fifth Sunday after Epiphany",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 58:1-9a, [9b-12]",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 112:1-9, [10]",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 2:1-12, [13-16]",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 5:13-20",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi6_RCL": {
+  "title": "Sixth Sunday after Epiphany",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Deuteronomy 30:15-20",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Sirach 15:15-20",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 119:1-8",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 3:1-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 5:21-37",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi7_RCL": {
+  "title": "Seventh Sunday after Epiphany",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Leviticus 19:1-2,9-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 119:33-40",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 3:10-11,16-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 5:38-48",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi8_RCL": {
+  "title": "Eighth Sunday after Epiphany",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 49:8-16a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 131",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 4:1-5",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 6:24-34",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpiLast_RCL": {
+  "title": "Last Sunday after Epiphany",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 24:12-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 2",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 99",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Peter 1:16-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 17:1-9",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Epiphany_AEpi_RCL": {
+  "title": "The Epiphany",
+  "info": "Year A | RCL | January 6",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 60:1-6",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 72:1-7, 10-14",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 3:1-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 2:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_HolyDays_AAllSaints_RCL": {
+  "title": "All Saints' Day",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Revelation 7:9-17",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 34:1-10,22",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 John 3:1-3",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 5:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_HolyDays_Thanks_A_RCL": {
+  "title": "Thanksgiving Day",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 8:7-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 65",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 9:6-15",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 17:11-19",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_HolyWk_APalmSun_RCL": {
+  "title": "Sunday of the Passion: Palm Sunday",
+  "info": null,
+  "items": [
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 21:1-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 118:1-2, 19-29",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 50:4-9a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 31:9-16",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt2",
+    "ref": "Philippians 2:5-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Matthew 26:14- 27:66",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Matthew 27:11-54",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Lent_ALent1_RCL": {
+  "title": "First Sunday in Lent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 2:15-17; 3:1-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 32",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 5:12-19",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 4:1-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Lent_ALent2_RCL": {
+  "title": "Second Sunday in Lent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 12:1-4a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 121",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 4:1-5, 13-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 3:1-17",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Lent_ALent3_RCL": {
+  "title": "Third Sunday in Lent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 17:1-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 95",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 5:1-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 4:5-42",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Lent_ALent4_RCL": {
+  "title": "Fourth Sunday in Lent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Samuel 16:1-13",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 23",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 5:8-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 9:1-41",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Lent_ALent5_RCL": {
+  "title": "Fifth Sunday in Lent",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Ezekiel 37:1-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 130",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 8:6-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 11:1-45",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_APentDay_RCL": {
+  "title": "Day of Pentecost",
+  "info": "Whitsunday | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 2:1-21",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Numbers 11:24-30",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 104:25-35, 37",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 12:3b-13",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 2:1-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:19-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 7:37-39",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp10_RCL": {
+  "title": "Sunday Closest to July 13",
+  "info": "Proper 10 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 25:19-34",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 119:105-112",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 55:10-13",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 65: (1-8), 9-14",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 8:1-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 13:1-9,18-23",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp11_RCL": {
+  "title": "Sunday closest to July 20",
+  "info": "Proper 11 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 28:10-19a",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 139: 1-11, 22-23",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "First Reading",
+    "id": "ot2",
+    "ref": "Wisdom of Solomon 12:13, 16-19",
+    "track": 2
+   },
+   {
+    "role": "first",
+    "heading": "First Reading",
+    "id": "ot2",
+    "ref": "Isaiah 44:6-8",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 86:11-17",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 8:12-25",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 13:24-30,36-43",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp12_RCL": {
+  "title": "Sunday closest to July 27",
+  "info": "Proper 12 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 29:15-28",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 105:1-11, 45b",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 128",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "1 Kings 3:5-12",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 119:129-136",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 8:26-39",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 13:31-33,44-52",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp13_RCL": {
+  "title": "Sunday Closest to August 3",
+  "info": "Proper 13 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 32:22-31",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 17:1-7,16",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 55:1-5",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 145: 8-9, 15-22",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 9:1-5",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 14:13-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp14_RCL": {
+  "title": "Sunday closest to August 10",
+  "info": "Proper 14 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 37:1-4, 12-28",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 105, 1-6, 16-22, 45b",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "1 Kings 19:9-18",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 85:8-13",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 10:5-15",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 14:22-33",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp15_RCL": {
+  "title": "Sunday closest to August 17",
+  "info": "Proper 15 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 45:1-15",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 133",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 56:1,6-8",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 67",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 11:1-2a, 29-32",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 15: (10-20), 21-28",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp16_RCL": {
+  "title": "Sunday closest to August 24",
+  "info": "Year A | Proper 16 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 1:8-2:10",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 124",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 51:1-6",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 138",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 12:1-8",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 16:13-20",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp17_RCL": {
+  "title": "Sunday closest to August 31",
+  "info": "Year A | Proper 17 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 3:1-15",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 105:1-6, 23-26, 45c",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jeremiah 15:15-21",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 26:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 12:9-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 16:21-28",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp18_RCL": {
+  "title": "Sunday closest to September 7",
+  "info": "Proper 18 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 12:1-14",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 149",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Ezekiel 33:7-11",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 119:33-40",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 13:8-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 18:15-20",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp19_RCL": {
+  "title": "Sunday closest to September 14",
+  "info": "Year A | Proper 19 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 14:19-31",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 114",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps3",
+    "ref": "Exodus 15:1b-11,20-21",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Genesis 50:15-21",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 103:(1-7), 8-13",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 14:1-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 18:21-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp1_RCL": {
+  "title": "Sunday Closest to May 11",
+  "info": "Proper 1 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Deuteronomy 30:15-20",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Sirach 15:15-20",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 119:1-8",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 3:1-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 5:21-37",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp20_RCL": {
+  "title": "Sunday closest to September 21",
+  "info": "Year A | Proper 20 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 16:2-15",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 105:1-6, 37-45",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jonah 3:10-4:11",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 145:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 1:21-30",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 20:1-16",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp21_RCL": {
+  "title": "Sunday closest to September 28",
+  "info": "Proper 21 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 17:1-7",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 78:1-4, 12-16",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Ezekiel 18:1-4,25-32",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 25:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 2:1-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 21:23-32",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp22_RCL": {
+  "title": "Sunday closest to October 5",
+  "info": "Year A | Proper 22 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 20:1-4, 7-9, 12-20",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 19",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 5:1-7",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 80:7-14",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 3:4b-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 21:33-46",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp23_RCL": {
+  "title": "Sunday closest to October 12",
+  "info": "Year A | Proper 23 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 32:1-14",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 106:1-6, 19-23",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 25:1-9",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 23",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 4:1-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 22:1-14",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp24_RCL": {
+  "title": "Sunday closest to October 19",
+  "info": "Year A | Proper 24 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 33:12-23",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 99",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 45:1-7",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 96:1-9, (10-13)",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Thessalonians 1:1-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 22:15-22",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp25_RCL": {
+  "title": "Sunday closest to October 26",
+  "info": "Year A | Proper 25 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 34:1-12",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 90:1-6, 13-17",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Leviticus 19:1-2,15-18",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 1",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Thessalonians 2:1-8",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 22:34-46",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp26_RCL": {
+  "title": "Sunday closest to November 2",
+  "info": "Year A | Proper 26 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Joshua 3:7-17",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 107:1-7, 33-37",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Micah 3:5-12",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 43",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Thessalonians 2:9-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 23:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp27_RCL": {
+  "title": "Sunday closest to November 9",
+  "info": "Year A | Proper 27 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Joshua 24:1-3a, 14-25",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 78:1-7",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot2",
+    "ref": "Wisdom 6:12\u201316",
+    "track": 2
+   },
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot2",
+    "ref": "Amos 5:18-24",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps2",
+    "ref": "Wisdom of Solomon 6:17-20",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps2",
+    "ref": "Psalm 70",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Thessalonians 4:13-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 25:1-13",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp28_RCL": {
+  "title": "Sunday closest to November 16",
+  "info": "Year A | Proper 28 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Judges 4:1-7",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 123",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Zephaniah 1:7,12-18",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 90:1-8, (9-11), 12",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Thessalonians 5:1-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 25:14-30",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp29_RCL": {
+  "title": "Last Sunday after Pentecost",
+  "info": "Christ the King | | Proper 29 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Ezekiel 34:11-16, 20-24",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 100",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Ezekiel 34:11-16, 20-24",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 95:1-7a",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 1:15-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 25:31-46",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp2_RCL": {
+  "title": "Sunday Closest to May 18",
+  "info": "Proper 2 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Leviticus 19:1-2,9-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 119:33-40",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 3:10-11,16-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 5:38-48",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp3_RCL": {
+  "title": "Sunday Closest to May 25",
+  "info": "Proper 3 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 49:8-16a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 131",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 4:1-5",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 6:24-34",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp4_RCL": {
+  "title": "Sunday closest to June 1",
+  "info": "Proper 4 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 6: 9-22; 7:24; 8:14-19",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 46",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Deuteronomy 11:18-21,26-28",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 31:1-5,19-24",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 1:16-17; 3:22b-28, (29-31)",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 7:21-29",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp5_RCL": {
+  "title": "Sunday Closest to June 8",
+  "info": "Proper 5 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 12:1-9",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 33:1-12",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Hosea 5:15-6:6",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 50:7-15",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 4:13-25",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 9:9-13, 18-26",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp6_RCL": {
+  "title": "Sunday closest to June 15",
+  "info": "Proper 6 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 18:1-15, (21:1-7)",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 116:1, 10-17",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Exodus 19:2-8a",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 100",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 5:1-8",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 9:35-10:8(9-23)",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp7_RCL": {
+  "title": "Sunday Closest to June 22",
+  "info": "Proper 7 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 21:8-21",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 86:1-10, 16-17",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jeremiah 20:7-13",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 69: 8-11, (12-17), 18-20",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 6:1b-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 10:24-39",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_AProp9_RCL": {
+  "title": "Sunday Closest to July 6",
+  "info": "Proper 9 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 24:34-38, 42-49, 58-67",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 45: 11-18",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Song of Solomon 2:8-13",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Zechariah 9:9-12",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 145:8-15",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 7:15-25a",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 11:16-19, 25-30",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_ATrinity_RCL": {
+  "title": "First Sunday after Pentecost: Trinity Sunday",
+  "info": "Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 1:1-2:4a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 8",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Canticle 13",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 13:11-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 28:16-20",
+    "track": 0
+   }
+  ]
+ },
+ "YearA_RCL_Pentecost_Aprop8_RCL": {
+  "title": "Sunday Closest to June 29",
+  "info": "Proper 8 | Year A | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 22:1-14",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 13",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jeremiah 28:5-9",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 89:1-4,15-18",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 6:12-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 10:40-42",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_Advent_BAdv1": {
+  "title": "First Sunday of Advent",
+  "info": null,
+  "items": []
+ },
+ "YearB_Advent_BAdv4": {
+  "title": "Fourth Sunday of Advent",
+  "info": null,
+  "items": []
+ },
+ "YearB_Easter_BEaster2": {
+  "title": "Second Sunday of Easter",
+  "info": null,
+  "items": []
+ },
+ "YearB_Easter_BEaster3": {
+  "title": "Third Sunday of Easter",
+  "info": null,
+  "items": []
+ },
+ "YearB_Easter_BEaster4": {
+  "title": "Fourth Sunday of Easter",
+  "info": null,
+  "items": []
+ },
+ "YearB_HolyWk_BPalmSun": {
+  "title": "Sunday of the Passion: Palm Sunday",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BPentDay": {
+  "title": "Day of Pentecost",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp10": {
+  "title": "Sunday closest to July 13",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp12": {
+  "title": "Sunday closest to July 27",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp13": {
+  "title": "Sunday closest to August 3",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp14": {
+  "title": "Sunday closest to August 10",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp15": {
+  "title": "Sunday closest to August 17",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp16": {
+  "title": "Sunday closest to August 24",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp17": {
+  "title": "Sunday closest to August 31",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp6": {
+  "title": "Sunday Closest to June 15",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp7": {
+  "title": "Sunday Closest to June 22",
+  "info": null,
+  "items": []
+ },
+ "YearB_Pentecost_BProp8": {
+  "title": "Sunday Closest to June 29",
+  "info": null,
+  "items": []
+ },
+ "YearB_RCL_Advent_BAdv1_RCL": {
+  "title": "First Sunday of Advent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 64:1-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 80:1-7, 16-18",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 1:3-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 13:24-37",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Advent_BAdv2_RCL": {
+  "title": "Second Sunday of Advent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 40:1-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 85:1-2, 8-13",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Peter 3:8-15a",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:1-8",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Advent_BAdv3_RCL": {
+  "title": "Third Sunday of Advent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 61:1-4, 8-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 126",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 15",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Thessalonians 5:16-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 1:6-8,19-28",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Advent_BAdv4_RCL": {
+  "title": "Fourth Sunday of Advent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 7:1-11, 16",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 15",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 89:1-4, 19-26",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 16:25-27",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 1:26-38",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Easter_BAscension_RCL": {
+  "title": "Ascension Day",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 1:1-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 47",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 93",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 1:15-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:44-53",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Easter_BEasVigil_RCL": {
+  "title": "The Great Vigil of Easter",
+  "info": null,
+  "items": []
+ },
+ "YearB_RCL_Easter_BEaster2_RCL": {
+  "title": "Second Sunday of Easter",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 4:32-35",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 133",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 John 1:1-2:2",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:19-31",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Easter_BEaster3_RCL": {
+  "title": "Third Sunday of Easter",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 3:12-19",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 4",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 John 3:1-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:36b-48",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Easter_BEaster4_RCL": {
+  "title": "Fourth Sunday of Easter",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 4:5-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 23",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 John 3:16-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 10:11-18",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Easter_BEaster5_RCL": {
+  "title": "Fifth Sunday of Easter",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 8:26-40",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 22:24-30",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 John 4:7-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 15:1-8",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Easter_BEaster6_RCL": {
+  "title": "Sixth Sunday of Easter",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 10:44-48",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 98",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 John 5:1-6",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 15:9-17",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Easter_BEaster7_RCL": {
+  "title": "Seventh Sunday of Easter",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 1:15-17, 21-26",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 1",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 John 5:9-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 17:6-19",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Easter_BEasterPrin_RCL": {
+  "title": "Easter Day",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Acts 10:34-43",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Isaiah 25:6-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:1-2, 14-24",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Second Reading",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:1-11",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Second Reading",
+    "id": "nt1",
+    "ref": "Acts 10:34-43",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:1-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 16:1-8",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpi1_RCL": {
+  "title": "First Sunday after the Epiphany",
+  "info": "The Baptism of our Lord | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 1:1-5",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 29",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 19:1-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:4-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpi2_RCL": {
+  "title": "Second Sunday after the Epiphany",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Samuel 3:1-10(11-20)",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 139:1-5, 12-17",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 6:12-20",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 1:43-51",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpi3_RCL": {
+  "title": "Third Sunday after the Epiphany",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jonah 3:1-5, 10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 62:6-14",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 7:29-31",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:14-20",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpi4_RCL": {
+  "title": "Fourth Sunday after the Epiphany",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 18:15-20",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 111",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 8:1-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:21-28",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpi5_RCL": {
+  "title": "Fifth Sunday after the Epiphany",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 40:21-31",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 147:1-12, 21c",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 9:16-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:29-39",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpi6_RCL": {
+  "title": "Sixth Sunday after the Epiphany",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Kings 5:1-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 30",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 9:24-27",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:40-45",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpi7_RCL": {
+  "title": "Seventh Sunday after the Epiphany",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 43:18-25",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 41",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 1:18-22",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 2:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpi8_RCL": {
+  "title": "Eighth Sunday after the Epiphany",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Hosea 2:14-20",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 103:1-13, 22",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 3:1-6",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 2:13-22",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Epiphany_BEpiLast_RCL": {
+  "title": "Last Sunday after the Epiphany",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Kings 2:1-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 50:1-6",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 4:3-6",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 9:2-9",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_HolyDays_AllSaints_B_RCL": {
+  "title": "All Saints' Day",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Wisdom of Solomon 3:1-9",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 25:6-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 24",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Revelation 21:1-6a",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 11:32-44",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_HolyDays_Thanks_B_RCL": {
+  "title": "Thanksgiving Day",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Joel 2:21-27",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 126",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Timothy 2:1-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Matthew 6:25-33",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_HolyWeek_BPalmSun_RCL": {
+  "title": "Sunday of the Passion: Palm Sunday",
+  "info": null,
+  "items": [
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 11:1-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 12:12-16",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 118:1-2, 19-29",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 50:4-9a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 31:9-16",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt2",
+    "ref": "Philippians 2:5-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Mark 14:1-15:47",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Mark 15:1-39, [40-47]",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Lent_BLent1_RCL": {
+  "title": "First Sunday in Lent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 9:8-17",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 25:1-9",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Peter 3:18-22",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:9-15",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Lent_BLent2_RCL": {
+  "title": "Second Sunday in Lent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 17:1-7, 15-16",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 22:22-30",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 4:13-25",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 8:31-38",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Lent_BLent3_RCL": {
+  "title": "Third Sunday in Lent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 20:1-17",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 19",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 1:18-25",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 2:13-22",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Lent_BLent4_RCL": {
+  "title": "Fourth Sunday in Lent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Numbers 21:4-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 107:1-3, 17-22",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 2:1-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 3:14-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Lent_BLent5_RCL": {
+  "title": "Fifth Sunday in Lent",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 31:31-34",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 51:1-13",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 119:9-16",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 5:5-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 12:20-33",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BPentDay_RCL": {
+  "title": "Day of Pentecost",
+  "info": "Whitsunday | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 2:1-21",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Ezekiel 37:1-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 104:25-35, 37",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Romans 8:22-27",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 2:1-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 15:26-27; 16:4b-15",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp10_RCL": {
+  "title": "Sunday closest to July 13",
+  "info": "Year B | Proper 10 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 6:1-5, 12b-19",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 24",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Amos 7:7-15",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 85:8-13",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 1:3-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 6:14-29",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp11_RCL": {
+  "title": "Sunday closest to July 20",
+  "info": "Proper 11 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 7:1-14a",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 89:20-37",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jeremiah 23:1-6",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 23",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 2:11-22",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 6:30-34, 53-56",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp12_RCL": {
+  "title": "Sunday closest to July 27",
+  "info": "Proper 12 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 11:1-15",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 14",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "2 Kings 4:42-44",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 145:10-19",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 3:14-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 6:1-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp13_RCL": {
+  "title": "Sunday closest to August 3",
+  "info": "Proper 13 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 11:26-12:13a",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 51:1-13",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Exodus 16:2-4,9-15",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 78:23-29",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 4:1-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 6:24-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp14_RCL": {
+  "title": "Sunday closest to August 10",
+  "info": "Proper 14 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 18:5-9, 15, 31-33",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 130",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "1 Kings 19:4-8",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 34:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 4:25-5:2",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 6:35, 41-51",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp15_RCL": {
+  "title": "Sunday closest to August 17",
+  "info": "Proper 15 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Kings 2:10-12; 3:3-14",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 111",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Proverbs 9:1-6",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 34:9-14",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 5:15-20",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 6:51-58",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp16_RCL": {
+  "title": "Sunday closest to August 24",
+  "info": "Proper 16 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Kings 8:[1, 6, 10-11], 22-30, 41-43",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 84",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Joshua 24:1-2a,14-18",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 34:15-22",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 6:10-20",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 6:56-69",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp17_RCL": {
+  "title": "Sunday closest to August 31",
+  "info": "Proper 17 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Song of Solomon 2:8-13",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 45:1-2, 7-10",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Deuteronomy 4:1-2, 6-9",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 15",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "James 1:17-27",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 7:1-8, 14-15, 21-23",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp18_RCL": {
+  "title": "Sunday closest to September 7",
+  "info": "Proper 18 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Proverbs 22:1-2, 8-9, 22-23",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 125",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 35:4-7a",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 146",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "James 2:1-10, [11-13], 14-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 7:24-37",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp19_RCL": {
+  "title": "Sunday closest to September 14",
+  "info": "Proper 19 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Proverbs 1:20-33",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 19",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Wisdom 7:26\u20138:1",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 50:4-9a",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 116:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "James 3:1-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 8:27-38",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp1_RCL": {
+  "title": "Sunday Closest to May 11",
+  "info": "Year B | Proper 1 | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Kings 5:1-14",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 30",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 9:24-27",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 1:40-45",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp20_RCL": {
+  "title": "Sunday closest to September 21",
+  "info": "Proper 20 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Proverbs 31:10-31",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 1",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Wisdom of Solomon 1:16-2:1, 12-22",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jeremiah 11:18-20",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 54",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "James 3:13-4:3, 7-8a",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 9:30-37",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp21_RCL": {
+  "title": "Sunday closest to September 28",
+  "info": "Proper 21 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Esther 7:1-6, 9-10; 9:20-22",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 124",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Numbers 11:4-6,10-16,24-29",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 19:7-14",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "James 5:13-20",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 9:38-50",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp22_RCL": {
+  "title": "Sunday closest to October 5",
+  "info": "Proper 22 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Job 1:1; 2:1-10",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 26",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Genesis 2:18-24",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 1:1-4; 2:5-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 10:2-16",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp23_RCL": {
+  "title": "Sunday closest to October 12",
+  "info": "Proper 23 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Job 23:1-9, 16-17",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 22:1-15",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Amos 5:6-7,10-15",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 90:12-17",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 4:12-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 10:17-31",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp24_RCL": {
+  "title": "Sunday closest to October 19",
+  "info": "Proper 24 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Job 38:1-7, (34-41)",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 104:1-9, 25, 37b",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 53:4-12",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 91:9-16",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 5:1-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 10:35-45",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp25_RCL": {
+  "title": "Sunday closest to October 26",
+  "info": "Proper 25 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Job 42:1-6, 10-17",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 34:1-8, (19-22)",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jeremiah 31:7-9",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 126",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 7:23-28",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 10:46-52",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp26_RCL": {
+  "title": "Sunday closest to November 2",
+  "info": "Proper 26 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Ruth 1:1-18",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 146",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Deuteronomy 6:1-9",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 119:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 9:11-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 12:28-34",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp27_RCL": {
+  "title": "Sunday closest to November 9",
+  "info": "Proper 27 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Ruth 3:1-5; 4:13-17",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 127",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "1 Kings 17:8-16",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 146",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 9:24-28",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 12:38-44",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp28_RCL": {
+  "title": "Sunday closest to November 16",
+  "info": "Proper 28 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Samuel 1:4-20",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "1 Samuel 2:1-10",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Daniel 12:1-3",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 16",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 10:11-14 (15-18) 19-25",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 13:1-8",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp29_RCL": {
+  "title": "Last Sunday after Pentecost",
+  "info": "Christ the King | | Proper 29 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 23:1-7",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 132:1-13 (14-19)",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Daniel 7:9-10, 13-14",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 93",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Revelation 1:4b-8",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 18:33-37",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp2_RCL": {
+  "title": "Sunday Closest to May 18",
+  "info": "Proper 2 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 43:18-25",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 41",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 1:18-22",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 2:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp3_RCL": {
+  "title": "Sunday Closest to May 25",
+  "info": "Proper 3 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Hosea 2:14-20",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 103:1-13, 22",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 3:1-6",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 2:13-22",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp4_RCL": {
+  "title": "Sunday closest to June 1",
+  "info": "Proper 4 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Samuel 3:1-10(11-20)",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 139:1-5, 12-17",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Deuteronomy 5:12-15",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 81:1-10",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 4:5-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 2:23-3:6",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp5_RCL": {
+  "title": "Sunday closest to June 8",
+  "info": "Proper 5 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Samuel 8:4-11, (12-15), 16-20, (11:14-15)",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 138",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Genesis 3:8-15",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 130",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 4:13-5:1",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 3:20-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp6_RCL": {
+  "title": "Sunday closest to June 15",
+  "info": "Proper 6 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Samuel 15:34-16:13",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 20",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Ezekiel 17:22-24",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 92:1-4,11-14",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 5:6-10,[11-13],14-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 4:26-34",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp7_RCL": {
+  "title": "Sunday closest to June 22",
+  "info": "Proper 7 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Samuel 17: (1a, 4-11, 19-23), 32-49",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 9:9-20",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot3",
+    "ref": "1 Samuel 17:57-18:5, 10-16",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps3",
+    "ref": "Psalm 133",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Job 38:1-11",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 107:1-3, 23-32",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 6:1-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 4:35-41",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp8_RCL": {
+  "title": "Sunday closest to June 29",
+  "info": "Proper 8 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 1:1, 17-27",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 130",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot2",
+    "ref": "Wisdom of Solomon 1:13-15; 2:23-24",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps2",
+    "ref": "Lamentations 3:21-33",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps2",
+    "ref": "Psalm 30",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 8:7-15",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 5:21-43",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BProp9_RCL": {
+  "title": "Sunday closest to July 6",
+  "info": "Proper 9 | Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Samuel 5:1-5, 9-10",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 48",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Ezekiel 2:1-5",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 123",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 12:2-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Mark 6:1-13",
+    "track": 0
+   }
+  ]
+ },
+ "YearB_RCL_Pentecost_BTrinity_RCL": {
+  "title": "First Sunday after Pentecost: Trinity Sunday",
+  "info": "Year B | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 6:1-8",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 29",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Canticle 13",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 8:12-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 3:1-17",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_Epiphany_CEpi3": {
+  "title": "Third Sunday after the Epiphany",
+  "info": null,
+  "items": []
+ },
+ "YearC_RCL_Advent_CAdv1_RCL": {
+  "title": "First Sunday of Advent",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 33:14-16",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 25:1-9",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Thessalonians 3:9-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 21:25-36",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Advent_CAdv2_RCL": {
+  "title": "Second Sunday of Advent",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Baruch 5:1-9",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot2",
+    "ref": "Malachi 3:1-4",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 16 Page 92, BCP",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Philippians 1:3-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 3:1-6",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Advent_CAdv3_RCL": {
+  "title": "Third Sunday of Advent",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Zephaniah 3:14-20",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 9 Page 86, BCP",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Philippians 4:4-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 3:7-18",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Advent_CAdv4_RCL": {
+  "title": "Fourth Sunday of Advent",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Micah 5:2-5a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 15 Page 91, BCP",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps2",
+    "ref": "Psalm 80:1-7",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Hebrews 10:5-10",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 1:39-45(46-55)",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Easter_CAscension_RCL": {
+  "title": "Ascension Day",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 1:1-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 47",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 93",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 1:15-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:44-53",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Easter_CEasVigil_RCL": {
+  "title": "The Great Vigil of Easter",
+  "info": null,
+  "items": []
+ },
+ "YearC_RCL_Easter_CEaster2_RCL": {
+  "title": "Second Sunday of Easter",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 5:27-32",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 118:14-29",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 150",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Revelation 1:4-8",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:19-31",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Easter_CEaster3_RCL": {
+  "title": "Third Sunday of Easter",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 9:1-6, (7-20)",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 30",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Revelation 5:11-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 21:1-19",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Easter_CEaster4_RCL": {
+  "title": "Fourth Sunday of Easter",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 9:36-43",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 23",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Revelation 7:9-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 10:22-30",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Easter_CEaster5_RCL": {
+  "title": "Fifth Sunday of Easter",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 11:1-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 148",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Revelation 21:1-6",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 13:31-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Easter_CEaster6_RCL": {
+  "title": "Sixth Sunday of Easter",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 16:9-15",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 67",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Revelation 21:10, 22-22:5",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 14:23-29",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 5:1-9",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Easter_CEaster7_RCL": {
+  "title": "Seventh Sunday of Easter",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 16:16-34",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 97",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Revelation 22:12-14,16-17,20-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 17:20-26",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Easter_CEasterPrin_RCL": {
+  "title": "Easter Day",
+  "info": "Principal Service | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 10:34-43",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Isaiah 65:17-25",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Psalm 118:1-2, 14-24",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:19-26",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 10:34-43",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 20:1-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 24:1-12",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpi1_RCL": {
+  "title": "First Sunday after the Epiphany",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 43:1-7",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 29",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 8:14-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 3:15-17, 21-22",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpi2_RCL": {
+  "title": "Second Sunday after the Epiphany",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 62:1-5",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 36:5-10",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 12:1-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 2:1-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpi3_RCL": {
+  "title": "Third Sunday after the Epiphany",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Nehemiah 8:1-3, 5-6, 8-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 19",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 12:12-31a",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 4:14-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpi4_RCL": {
+  "title": "Fourth Sunday after the Epiphany",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 1:4-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 71:1-6",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 13:1-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 4:21-30",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpi5_RCL": {
+  "title": "Fifth Sunday after Epiphany",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 6:1-8, [9-13]",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 138",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:1-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 5:1-11",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpi6_RCL": {
+  "title": "Sixth Sunday after Epiphany",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 17:5-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 1",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:12-20",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 6:17-26",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpi7_RCL": {
+  "title": "Seventh Sunday after the Epiphany",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 45:3-11, 15",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 37:1-12, 41-42",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:35-38,42-50",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 6:27-38",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpi8_RCL": {
+  "title": "Eighth Sunday after the Epiphany",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Sirach 27:4-7",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 55:10-13",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 92 or 92:1-4,11-14",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:51-58",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 6:39-49",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Epiphany_CEpiLast_RCL": {
+  "title": "Last Sunday after Epiphany",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 34:29-35",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 99",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "2 Corinthians 3:12-4:2",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 9:28-36, [37-43a]",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_HolyDays_AllSaintsC_RCL": {
+  "title": "All Saints' Day",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Daniel 7:1-3,15-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 149",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Ephesians 1:11-23",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 6:20-31",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_HolyDays_CPalmSun_RCL": {
+  "title": "Sunday of the Passion: Palm Sunday",
+  "info": null,
+  "items": [
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 19:28-40",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 118:1-2, 19-29",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 50:4-9a",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 31:9-16",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt2",
+    "ref": "Philippians 2:5-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Luke 22:14-23:56",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp2",
+    "ref": "Luke 23:1-49",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_HolyDays_Thanks_C_RCL": {
+  "title": "Thanksgiving Day",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 26:1-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 100",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 4:4-9",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 6:25-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Lent_CLent1_RCL": {
+  "title": "First Sunday in Lent",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Deuteronomy 26:1-11",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 91:1-2, 9-16",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 10:8b-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 4:1-13",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Lent_CLent2_RCL": {
+  "title": "Second Sunday in Lent",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 15:1-12,17-18",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 27",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 3:17-4:1",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 13:31-35",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Lent_CLent3_RCL": {
+  "title": "Third Sunday in Lent",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Exodus 3:1-15",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 63:1-8",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Corinthians 10:1-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 13:1-9",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Lent_CLent4_RCL": {
+  "title": "Fourth Sunday in Lent",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Joshua 5:9-12",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 32",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Corinthians 5:16-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 15:1-3, 11b-32",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Lent_CLent5_RCL": {
+  "title": "Fifth Sunday in Lent",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 43:16-21",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 126",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philippians 3:4b-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 12:1-8",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CPentDay_RCL": {
+  "title": "Day of Pentecost",
+  "info": "Whitsunday | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Acts 2:1-21",
+    "track": 0
+   },
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot1",
+    "ref": "Genesis 11:1-9",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 104:25-35, 37",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Romans 8:14-17",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "Acts 2:1-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 14:8-17 (25-27)",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp10_RCL": {
+  "title": "Sunday closest to July 13",
+  "info": "Proper 10 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Amos 7:7-17",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 82",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Deuteronomy 30:9-14",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 25:1-9",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Colossians 1:1-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 10:25-37",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp11_RCL": {
+  "title": "Sunday closest to July 20",
+  "info": "Proper 11 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Amos 8:1-12",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 52",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Genesis 18:1-10a",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 15",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Colossians 1:15-28",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 10:38-42",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp12_RCL": {
+  "title": "Sunday closest to July 27",
+  "info": "Proper 12 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Hosea 1:2-10",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 85",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Genesis 18:20-32",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 138",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Colossians 2:6-15, (16-19)",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 11:1-13",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp13_RCL": {
+  "title": "Sunday closest to August 3",
+  "info": "Proper 13 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Hosea 11:1-11",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 107:1-9, 43",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Ecclesiastes 1:2, 12-14; 2:18-23",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 49:1-11",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Colossians 3:1-11",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 12:13-21",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp14_RCL": {
+  "title": "Sunday closest to August 10",
+  "info": "Proper 14 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 1:1, 10-20",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 50:1-8, 23-24",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Genesis 15:1-6",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 33:12-22",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 11:1-3, 8-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 12:32-40",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp15_RCL": {
+  "title": "Sunday closest to August 17",
+  "info": "Proper 15 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 5:1-7",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 80:1-2, 8-18",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jeremiah 23:23-29",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 82",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 11:29-12:2",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 12:49-56",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp16_RCL": {
+  "title": "Sunday closest to August 24",
+  "info": "Proper 16 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 1:4-10",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 71:1-6",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 58:9b-14",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 103:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 12:18-29",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 13:10-17",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp17_RCL": {
+  "title": "Sunday closest to August 31",
+  "info": "Proper 17 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 2:4-13",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 81:1, 10-16",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot2",
+    "ref": "Sirach 10:12-18",
+    "track": 2
+   },
+   {
+    "role": "first",
+    "heading": "The First Lesson",
+    "id": "ot2",
+    "ref": "Proverbs 25:6-7",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 112",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Hebrews 13:1-8, 15-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 14:1, 7-14",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp18_RCL": {
+  "title": "Sunday closest to September 7",
+  "info": "Proper 18 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 18:1-11",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 139:1-5, 12-17",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Deuteronomy 30:15-20",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 1",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Philemon 1-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 14:25-33",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp19_RCL": {
+  "title": "Sunday closest to September 14",
+  "info": "Proper 19 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 4:11-12, 22-28",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 14",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Exodus 32:7-14",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 51:1-11",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Timothy 1:12-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 15:1-10",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp1_RCL": {
+  "title": "Sunday Closest to May 11",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 17:5-10",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 1",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:12-20",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 6:17-26",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp20_RCL": {
+  "title": "Sunday closest to September 21",
+  "info": "Proper 20 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 8:18-9:1",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 79:1-9",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Amos 8:4-7",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 113",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Timothy 2:1-7",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 16:1-13",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp21_RCL": {
+  "title": "Sunday closest to September 28",
+  "info": "Proper 21 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 32:1-3a, 6-15",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 91:1-6, 14-16",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Amos 6:1a,4-7",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 146",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "1 Timothy 6:6-19",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 16:19-31",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp22_RCL": {
+  "title": "Sunday closest to October 5",
+  "info": "Proper 22 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Lamentations 1:1-6",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Lamentations 3:19-26",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 137",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Habakkuk 1:1-4, 2:1-4",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 37:1-10",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Timothy 1:1-14",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 17:5-10",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp23_RCL": {
+  "title": "Sunday closest to October 12",
+  "info": "Proper 23 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 29:1, 4-7",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 66:1-11",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "2 Kings 5:1-3, 7-15c",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 111",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Timothy 2:8-15",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 17:11-19",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp24_RCL": {
+  "title": "Sunday closest to October 19",
+  "info": "Proper 24 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 31:27-34",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 119:97-104",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Genesis 32:22-31",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 121",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Timothy 3:14-4:5",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 18:1-8",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp25_RCL": {
+  "title": "Sunday closest to October 26",
+  "info": "Proper 25 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Joel 2:23-32",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 65",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "The Reading",
+    "id": "ot2",
+    "ref": "Sirach 35:12-17",
+    "track": 2
+   },
+   {
+    "role": "first",
+    "heading": "The Reading",
+    "id": "ot2",
+    "ref": "Jeremiah 14:7-10,19-22",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 84:1-6",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Timothy 4:6-8,16-18",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 18:9-14",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp26_RCL": {
+  "title": "Sunday closest to November 2",
+  "info": "Proper 26 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Habakkuk 1:1-4; 2:1-4",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 119:137-144",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 1:10-18",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 32:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Thessalonians 1:1-4, 11-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 19:1-10",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp27_RCL": {
+  "title": "Sunday closest to November 9",
+  "info": "Proper 27 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Haggai 1:15b-2:9",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 145:1-5, 18-22",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 98",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Job 19:23-27a",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 17:1-9",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Thessalonians 2:1-5, 13-17",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 20:27-38",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp28_RCL": {
+  "title": "Sunday closest to November 16",
+  "info": "Proper 28 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Isaiah 65:17-25",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 9",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Malachi 4:1-2a",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 98",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "2 Thessalonians 3:6-13",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 21:5-19",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp29_RCL": {
+  "title": "Last Sunday after Pentecost",
+  "info": "Proper 29 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Jeremiah 23:1-6",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Response",
+    "id": "ps1",
+    "ref": "Canticle 16",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Jeremiah 23:1-6",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 46",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Colossians 1:11-20",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 23:33-43",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp2_RCL": {
+  "title": "Sunday Closest to May 18",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Genesis 45:3-11, 15",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 37:1-12, 41-42",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:35-38,42-50",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 6:27-38",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp3_RCL": {
+  "title": "Sunday Closest to May 25",
+  "info": null,
+  "items": [
+   {
+    "role": "first",
+    "heading": "The First Reading",
+    "id": "ot1",
+    "ref": "Sirach 27:4-7",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 55:10-13",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 92 or 92:1-4,11-14",
+    "track": 1
+   },
+   {
+    "role": "second",
+    "heading": "The New Testament",
+    "id": "nt1",
+    "ref": "1 Corinthians 15:51-58",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 6:39-49",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp4_RCL": {
+  "title": "Sunday closest to June 1",
+  "info": "Proper 4 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Kings 18:20-21, (22-29), 30-39",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 96",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "1 Kings 8:22-23 ,41-43",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 96:1-9",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 1:1-12",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 7:1-10",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp5_RCL": {
+  "title": "Sunday closest to June 8",
+  "info": "Proper 5 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Kings 17:8-16 (17-24)",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 146",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "1 Kings 17:17-24",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 30",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 1:11-24",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 7:11-17",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp6_RCL": {
+  "title": "Sunday closest to June 15",
+  "info": "Proper 6 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Kings 21:1-10, (11-14), 15-21a",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 5:1-8",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "2 Samuel 11:26-12:10,13-15",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 32",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 2:15-21",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 7:36-8:3",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp7_RCL": {
+  "title": "Sunday closest to June 22",
+  "info": "Proper 7 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "1 Kings 19:1-4, (5-7), 8-15a",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 42",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 43",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 65:1-9",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 22:18-27",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 3:23-29",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 8:26-39",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp8_RCL": {
+  "title": "Sunday closest to June 29",
+  "info": "Proper 8 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Kings 2:1-2, 6-14",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 77:1-2, 11-20",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "1 Kings 19:15-16,19-21",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 16",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 5:1,13-25",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 9:51-62",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CProp9_RCL": {
+  "title": "Sunday closest to July 6",
+  "info": "Proper 9 | Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "2 Kings 5:1-14",
+    "track": 1
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 30",
+    "track": 1
+   },
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot2",
+    "ref": "Isaiah 66:10-14",
+    "track": 2
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps2",
+    "ref": "Psalm 66:1-8",
+    "track": 2
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Galatians 6:(1-6)7-16",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "Luke 10:1-11, 16-20",
+    "track": 0
+   }
+  ]
+ },
+ "YearC_RCL_Pentecost_CTrinity_RCL": {
+  "title": "First Sunday after Pentecost: Trinity Sunday",
+  "info": "Year C | RCL",
+  "items": [
+   {
+    "role": "first",
+    "heading": "Old Testament",
+    "id": "ot1",
+    "ref": "Proverbs 8:1-4, 22-31",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Psalm 8",
+    "track": 0
+   },
+   {
+    "role": "psalm",
+    "heading": "The Psalm",
+    "id": "ps1",
+    "ref": "Canticle 13",
+    "track": 0
+   },
+   {
+    "role": "second",
+    "heading": "The Epistle",
+    "id": "nt1",
+    "ref": "Romans 5:1-5",
+    "track": 0
+   },
+   {
+    "role": "gospel",
+    "heading": "The Gospel",
+    "id": "gsp1",
+    "ref": "John 16:12-15",
+    "track": 0
+   }
+  ]
+ }
+}

@@ -10,6 +10,8 @@
  *   const populated = await fetchAllReadings(readings)  // adds .text to each
  */
 
+import { fetchAllWebReadings } from './webScripture'
+
 // Relative path → works on Netlify (/api/scripture) and local Netlify Dev
 const PROXY_URL = '/api/scripture'
 
@@ -115,7 +117,9 @@ export async function fetchPassage(reference) {
  * fetchAllReadings — fetch text for all readings in parallel.
  * Returns a new array with .text populated on each.
  */
-export async function fetchAllReadings(readings) {
+export async function fetchAllReadings(readings, tradition) {
+  // Episcopal readings come from the public-domain WEB (see webScripture.js); Catholic path unchanged below
+  if (tradition === 'Episcopal') return fetchAllWebReadings(readings)
   const results = await Promise.all(
     readings.map(async (reading) => {
       const text = await fetchPassage(reading.reference)

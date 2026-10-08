@@ -30,3 +30,6 @@ scripts/.logos-cookies.json
 # Local Netlify folder
 .netlify
 .envy
+
+# Episcopal lectionary scrape cache
+scripts/episcopal/_cache/
