@@ -1,0 +1,7454 @@
+{
+ "LFF.Jan_Seton": {
+  "name": "Elizabeth Seton",
+  "sub": "Vowed Religious and Educator, 1821",
+  "dates": [
+   "01-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Esdras 2:15-24"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:105-112"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 16:17-20"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 14:15-23"
+   }
+  ]
+ },
+ "LFF.Jan_SarahTheodoraSyncletica": {
+  "name": "Sarah, Theodora, and Syncletica of Egypt",
+  "sub": "Desert Mothers, fourth\u2013fifth century",
+  "dates": [
+   "01-05"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 9:1-6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:65-72"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 4:1-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 12:18-27"
+   }
+  ]
+ },
+ "LFF.Jan_Bedell": {
+  "name": "Harriet Bedell",
+  "sub": "Deaconess and Missionary, 1969",
+  "dates": [
+   "01-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 2:1-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 93"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 1:4-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 5:38-48"
+   }
+  ]
+ },
+ "LFF.Jan_Emery": {
+  "name": "Julia Chester Emery",
+  "sub": "Lay Leader and Missionary, 1922",
+  "dates": [
+   "01-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 3:30-4:6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 123"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 12:6-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 10:42-45"
+   }
+  ]
+ },
+ "LFF.Jan_Laud": {
+  "name": "William Laud",
+  "sub": "Archbishop of Canterbury, 1645",
+  "dates": [
+   "01-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 1:6-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 73:24-29"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Hebrews 12:5-7, 11-14"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 10:32-39"
+   }
+  ]
+ },
+ "LFF.Jan_Aelred": {
+  "name": "Aelred of Rievaulx",
+  "sub": "Monastic and Theologian, 1167",
+  "dates": [
+   "01-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 6:5-17"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 36:5-10"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 2:1-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:9-17"
+   }
+  ]
+ },
+ "LFF.Jan_Hilary": {
+  "name": "Hilary of Poitiers",
+  "sub": "Bishop, 367",
+  "dates": [
+   "01-13"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Zechariah 6:9-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 9:7-10"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 2:18-25"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 15:1-7"
+   }
+  ]
+ },
+ "LFF.Jan_BensonGore": {
+  "name": "Richard Meux Benson, Priest, and Charles Gore, Bishop",
+  "sub": "1915 and 1932",
+  "dates": [
+   "01-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 19:9-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 27:7-11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 4:7-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 17:6-11"
+   }
+  ]
+ },
+ "LFF.Jan_Antony": {
+  "name": "Antony of Egypt",
+  "sub": "Monastic",
+  "dates": [
+   "01-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 6:1-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 90:1-12",
+    "textRefs": {
+     "Psalm 90:1-12": "Psalm 90:1-8, (9-11), 12"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 1:9-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 10:17-22"
+   }
+  ]
+ },
+ "LFF.Jan_Wulfstan": {
+  "name": "Wulfstan of Worcester",
+  "sub": "Bishop, 1095",
+  "dates": [
+   "01-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 12:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 84:7-12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 4:1-5"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:5-8"
+   }
+  ]
+ },
+ "LFF.Jan_Fabian": {
+  "name": "Fabian",
+  "sub": "Bishop and Martyr, 250",
+  "dates": [
+   "01-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Esdras 2:42-48"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 6"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 15:35-44"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 10:24-31"
+   }
+  ]
+ },
+ "LFF.Jan_Agnes": {
+  "name": "Agnes and Cecilia of Rome",
+  "sub": "Martyrs, 304 and c.230",
+  "dates": [
+   "01-21"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Song of Songs 2:10-13"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 45:11-16",
+    "textRefs": {
+     "Psalm 45:11-16": "Psalm 45:10-17"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 6:16-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 18:1-6"
+   }
+  ]
+ },
+ "LFF.Jan_Vincent": {
+  "name": "Vincent of Saragossa",
+  "sub": "Deacon and Martyr, 304",
+  "dates": [
+   "01-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 26:12-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 31:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 7:13-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:4-12"
+   }
+  ]
+ },
+ "LFF.Jan_PhBrooks": {
+  "name": "Phillips Brooks",
+  "sub": "Bishop, 1893",
+  "dates": [
+   "01-23"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jonah 3:1-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 49:1-10",
+    "textRefs": {
+     "Psalm 49:1-10": "Psalm 49:1-12"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 3:14-21"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 20:1-16"
+   }
+  ]
+ },
+ "LFF.Jan_TimOi": {
+  "name": "Florence Li Tim-Oi, Priest, 1992",
+  "sub": "",
+  "dates": [
+   "01-24"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Joel 2:28-32"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 116:1-12",
+    "textRefs": {
+     "Psalm 116:1-12": "Psalm 116:1-9"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 3:23-29"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 5:1-11"
+   }
+  ]
+ },
+ "LFF.Jan_TimTitus": {
+  "name": "Timothy and Titus",
+  "sub": "Companions of Saint Paul",
+  "dates": [
+   "01-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 42:1-7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 30:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Timothy 1:1-8",
+    "alternates": [
+     "Titus 1:1-5"
+    ]
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 10:1-10"
+   }
+  ]
+ },
+ "LFF.Jan_Chrysostom2": {
+  "name": "John Chrysostom",
+  "sub": "Bishop and Theologian, 407",
+  "dates": [
+   "01-27"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 1:4-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 49:1-8",
+    "textRefs": {
+     "Psalm 49:1-8": "Psalm 49:1-12"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 12:31-13:7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 21:12-15"
+   }
+  ]
+ },
+ "LFF.Jan_Aquinas": {
+  "name": "Thomas Aquinas",
+  "sub": "Friar and Theologian, 1274",
+  "dates": [
+   "01-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 7:7-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:97-104"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 11:23-26"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 13:24-30"
+   }
+  ]
+ },
+ "LFF.Jan_Liliuokalani": {
+  "name": "Lili\u02bbuokalani of Hawai\u2019i",
+  "sub": "",
+  "dates": [
+   "01-29"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 26:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 57:7-11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 3:12-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 5:38-45"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Jan_Marcella": {
+  "name": "Marcella of Rome",
+  "sub": "Monastic and Scholar, 410",
+  "dates": [
+   "01-31"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 17:8-16"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 3:1-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 6:17-26"
+   }
+  ]
+ },
+ "LFF.Feb_Brigid": {
+  "name": "Brigid of Kildare",
+  "sub": "Monastic, c.523",
+  "dates": [
+   "02-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Tobit 2:9-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 138"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 1:26-31"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 6:19-24"
+   }
+  ]
+ },
+ "LFF.Feb_Anskar": {
+  "name": "Anskar",
+  "sub": "Bishop and Missionary, 865",
+  "dates": [
+   "02-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 11:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 13"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 1:1-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 6:7-13"
+   }
+  ]
+ },
+ "LFF.Feb_Masemola": {
+  "name": "Manche Masemola",
+  "sub": "Martyr, 1928",
+  "dates": [
+   "02-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ruth 1:8-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 118:8-14"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 5:7-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 19:13-15"
+   }
+  ]
+ },
+ "LFF.Feb_Agatha": {
+  "name": "Agatha of Sicily",
+  "sub": "Martyr, c.251",
+  "dates": [
+   "02-05"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judith 9:1-4, [5-9], 10-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 125"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:31-39"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 9:42-50"
+   }
+  ]
+ },
+ "LFF.Feb_Martyrs": {
+  "name": "The Martyrs of Japan",
+  "sub": "1597",
+  "dates": [
+   "02-06"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Lamentations 3:52-60"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 39:5-8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 2:19-3:6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 8:34-38"
+   }
+  ]
+ },
+ "LFF.Feb_Bakhita": {
+  "name": "Bakhita",
+  "sub": "(Josephine Margaret Bakhita), Monastic, 1947",
+  "dates": [
+   "02-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Amos 8:4-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 3"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 2:1-7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 3:1-9"
+   }
+  ]
+ },
+ "LFF.Feb_Scholastica": {
+  "name": "Scholastica",
+  "sub": "Monastic, 543",
+  "dates": [
+   "02-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 12:1-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 4:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 4:32-35"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 6:5-8"
+   }
+  ]
+ },
+ "LFF.Feb_Harris": {
+  "name": "The Consecration of Barbara Clementine Harris",
+  "sub": "First Woman Bishop in the Anglican Communion, 1989",
+  "dates": [
+   "02-11"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 58:6-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 33:18-22"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 4:1-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 18:1-8"
+   }
+  ]
+ },
+ "LFF.Feb_Theodora": {
+  "name": "Theodora",
+  "sub": "Empress, c.867",
+  "dates": [
+   "02-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 25:2-3, 23-31"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 100"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 1:15-20"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 17:1-10"
+   }
+  ]
+ },
+ "LFF.Feb_AbsJones": {
+  "name": "Absalom Jones",
+  "sub": "Priest, 1818",
+  "dates": [
+   "02-13"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 42:5-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 126"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 5:1-5"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:12-15"
+   }
+  ]
+ },
+ "LFF.Feb_Cyril": {
+  "name": "Cyril and Methodius",
+  "sub": "Missionaries, 869 and 885",
+  "dates": [
+   "02-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 4:7-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 29"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 1:15-26"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 16:15-20"
+   }
+  ]
+ },
+ "LFF.Feb_Bray": {
+  "name": "Thomas Bray",
+  "sub": "Priest and Missionary, 1730",
+  "dates": [
+   "02-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jonah 4:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 85:7-13",
+    "textRefs": {
+     "Psalm 85:7-13": "Psalm 85:8-13"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 2:5-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 5:27-32"
+   }
+  ]
+ },
+ "LFF.Feb_Luwum": {
+  "name": "Janani Luwum",
+  "sub": "Archbishop and Martyr, 1977",
+  "dates": [
+   "02-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 4:20-28"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:129-136"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 6:1-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 12:24-32"
+   }
+  ]
+ },
+ "LFF.Feb_Luther": {
+  "name": "Martin Luther",
+  "sub": "Pastor and Reformer, 1546",
+  "dates": [
+   "02-18"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 55:6-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 46"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 3:21-28"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:1-11"
+   }
+  ]
+ },
+ "LFF.Feb_YingZhaoZhenmei": {
+  "name": "Agnes Tsao Kou Ying, Agatha Lin Zhao, and Lucy Yi Zhenmei",
+  "sub": "Catechists and Martyrs, 1856, 1858, and 1862 20 Frederick Douglass , Social Reformer, 1895",
+  "dates": [
+   "02-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 23:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 25"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 6:16-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 25:1-13"
+   }
+  ]
+ },
+ "LFF.Feb_MargaretCortona": {
+  "name": "Margaret of Cortona",
+  "sub": "Monastic, 1297",
+  "dates": [
+   "02-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Zephaniah 3:7-13"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 30:6-13"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 5:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 7:36-50"
+   }
+  ]
+ },
+ "LFF.Feb_Polycarp": {
+  "name": "Polycarp",
+  "sub": "Bishop and Martyr of Smyrna, 156",
+  "dates": [
+   "02-23"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Numbers 23:5-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:9-16"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 2:8-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 20:20-28"
+   }
+  ]
+ },
+ "LFF.Feb_Morgan": {
+  "name": "Emily Malbone Morgan",
+  "sub": "Lay Leader and Contemplative, 1937",
+  "dates": [
+   "02-25"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Samuel 14:12-17"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:137-144"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 16:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:38-42"
+   }
+  ]
+ },
+ "LFF.Feb_Photini": {
+  "name": "Photini",
+  "sub": "The Samaritan Woman, c.67",
+  "dates": [
+   "02-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 24:12-20"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:73-80"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 2:16-23"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 4:4-26"
+   }
+  ]
+ },
+ "LFF.Feb_Herbert": {
+  "name": "George Herbert",
+  "sub": "Priest and Poet, 1633",
+  "dates": [
+   "02-27"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 4:13-5:7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 23"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 4:16-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 9:2-8"
+   }
+  ]
+ },
+ "LFF.Feb_CooperNew": {
+  "name": "Anna Julia Haywood Cooper",
+  "sub": "Educator, 1964",
+  "dates": [
+   "02-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 9:7-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 10:15-19"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Timothy 4:6-16"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 4:38-42"
+   }
+  ]
+ },
+ "LFF.Mar_David": {
+  "name": "David of Wales",
+  "sub": "Bishop, c. 544",
+  "dates": [
+   "03-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 15:14-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 135:13-21"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Thessalonians 2:7b-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 4:26-29"
+   }
+  ]
+ },
+ "LFF.Mar_Chad": {
+  "name": "Chad of Lichfield",
+  "sub": "Bishop, 672",
+  "dates": [
+   "03-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Leviticus 10:1-3"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 103:13-18"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 4:10-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 14:1-14"
+   }
+  ]
+ },
+ "LFF.Mar_Wesley": {
+  "name": "John and Charles Wesley",
+  "sub": "Priests, 1791, 1788",
+  "dates": [
+   "03-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 6:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 129"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 12:11-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 9:1-6"
+   }
+  ]
+ },
+ "LFF.Mar_Perpetua": {
+  "name": "Perpetua and Felicity",
+  "sub": "Martyrs, 202",
+  "dates": [
+   "03-07"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Daniel 6:10-16"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 124"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Hebrews 10:32-39"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 24:9-14"
+   }
+  ]
+ },
+ "LFF.Mar_Gregory": {
+  "name": "Gregory of Nyssa",
+  "sub": "Bishop and Theologian, c.394",
+  "dates": [
+   "03-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 7:24-8:1"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 2:17-22"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 14:23-26"
+   }
+  ]
+ },
+ "LFF.Mar_Tubman": {
+  "name": "Harriet Ross Tubman",
+  "sub": "Social Reformer, 1923",
+  "dates": [
+   "03-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judges 9:50-55"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 102:18-28"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 2:14-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 11:5-10"
+   }
+  ]
+ },
+ "LFF.Mar_GregGrt": {
+  "name": "Gregory the Great",
+  "sub": "Bishop and Theologian, 604",
+  "dates": [
+   "03-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 18:1-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 66:1-8",
+    "textRefs": {
+     "Psalm 66:1-8": "Psalm 66:1-9"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 1:28-2:3"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 10:42-45"
+   }
+  ]
+ },
+ "LFF.Mar_Holly": {
+  "name": "James Theodore Holly",
+  "sub": "Bishop, 1911",
+  "dates": [
+   "03-13"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Deuteronomy 6:20-25"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 86:11-17"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 8:26-39"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 4:31-38"
+   }
+  ]
+ },
+ "LFF.Mar_dePaulDeMarillac": {
+  "name": "Vincent de Paul, Priest, and Louise de Marillac, Vowed Religious",
+  "sub": "Workers of Charity, 1660",
+  "dates": [
+   "03-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Micah 3:1-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 37:1-17"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 2:12-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 18:18-20"
+   }
+  ]
+ },
+ "LFF.Mar_Patrick": {
+  "name": "Patrick of Ireland",
+  "sub": "Bishop and Missionary, 461",
+  "dates": [
+   "03-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ezekiel 36:33-38"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 97"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Thessalonians 2:1-8"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 28:16-20"
+   }
+  ]
+ },
+ "LFF.Mar_Cyril": {
+  "name": "Cyril of Jerusalem",
+  "sub": "Bishop and Theologian, 386",
+  "dates": [
+   "03-18"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 47:2-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 29"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Hebrews 13:14-21"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 9:38-41"
+   }
+  ]
+ },
+ "LFF.Mar_CuthbertNew": {
+  "name": "Cuthbert",
+  "sub": "Bishop, 687",
+  "dates": [
+   "03-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Job 38:1, 12-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 23"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 6:1-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 5:12-16"
+   }
+  ]
+ },
+ "LFF.Mar_Ken": {
+  "name": "Thomas Ken",
+  "sub": "Bishop of Bath and Wells, 1711",
+  "dates": [
+   "03-21"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Deuteronomy 26:16-19"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 22:26-30",
+    "textRefs": {
+     "Psalm 22:26-30": "Psalm 22:25-31"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 4:4-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 19:1-9"
+   }
+  ]
+ },
+ "LFF.Mar_Koven": {
+  "name": "James De Koven",
+  "sub": "Priest, 1879",
+  "dates": [
+   "03-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 24:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 84:7-12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Timothy 2:10-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 16:1-15"
+   }
+  ]
+ },
+ "LFF.Mar_GregIlum": {
+  "name": "Gregory the Illuminator",
+  "sub": "Bishop and Missionary, c.332",
+  "dates": [
+   "03-23"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 2:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 33:6-11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 17:22-31"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 2:18-22"
+   }
+  ]
+ },
+ "LFF.Mar_Romero": {
+  "name": "O\u0301scar Romero",
+  "sub": "Archbishop and Martyr, 1980, and the Martyrs of El Salvador",
+  "dates": [
+   "03-24"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 21:1-19"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 31:15-24"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 7:13-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 12:20-26"
+   }
+  ]
+ },
+ "LFF.Mar_Monsell": {
+  "name": "Harriet Monsell",
+  "sub": "Monastic, 1883",
+  "dates": [
+   "03-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 66:1-4"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 133"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Timothy 6:6-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 3:25-30"
+   }
+  ]
+ },
+ "LFF.Mar_Brent": {
+  "name": "Charles Henry Brent",
+  "sub": "Bishop, 1929",
+  "dates": [
+   "03-27"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 56:6-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 122"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 4:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 9:35-38"
+   }
+  ]
+ },
+ "LFF.Mar_Russell": {
+  "name": "James Solomon Russell",
+  "sub": "Priest, 1935",
+  "dates": [
+   "03-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 5:1-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 127"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Timothy 6:11-16"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 18:12-20"
+   }
+  ]
+ },
+ "LFF.Mar_Keble": {
+  "name": "John Keble",
+  "sub": "Priest and Poet, 1866",
+  "dates": [
+   "03-29"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 18:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 150"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 12:9-21"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 1:9-13"
+   }
+  ]
+ },
+ "LFF.Mar_MaryEgypt": {
+  "name": "Mary of Egypt",
+  "sub": "Monastic, c.421",
+  "dates": [
+   "03-30"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Hosea 11:1-4"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 48:7-13"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Hebrews 11:32-40"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 8:1-11"
+   }
+  ]
+ },
+ "LFF.Mar_Donne": {
+  "name": "John Donne",
+  "sub": "Priest and Poet, 1631",
+  "dates": [
+   "03-31"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 9:1-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 16"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 15:20-28"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 5:19-24"
+   }
+  ]
+ },
+ "LFF.Apr_Maurice": {
+  "name": "Frederick Denison Maurice",
+  "sub": "Priest 1872",
+  "dates": [
+   "04-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Numbers 21:4-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 145"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 2:42-47"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 18:33-37"
+   }
+  ]
+ },
+ "LFF.Apr_Breck": {
+  "name": "James Lloyd Breck",
+  "sub": "Priest, 1876",
+  "dates": [
+   "04-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Joshua 24:14-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:145-152"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 3:1-7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 7:1-10"
+   }
+  ]
+ },
+ "LFF.Apr_Richard": {
+  "name": "Richard of Chichester",
+  "sub": "Bishop, 1253",
+  "dates": [
+   "04-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 16:16-20"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 101:1-4"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Jude 17-25"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 3:7-14"
+   }
+  ]
+ },
+ "LFF.Apr_King": {
+  "name": "Martin Luther King, Jr.",
+  "sub": "Pastor and Martyr, 1968",
+  "dates": [
+   "04-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 3:7-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 77:11-20"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 6:10-20"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 6:27-36"
+   }
+  ]
+ },
+ "LFF.Apr_Cannon": {
+  "name": "Harriet Starr Cannon",
+  "sub": "Monastic, 1896",
+  "dates": [
+   "04-05"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 16:20-26"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 131"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Hebrews 13:7-16"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 9:33-37"
+   }
+  ]
+ },
+ "LFF.Apr_Tikhon": {
+  "name": "Tikhon",
+  "sub": "Bishop and Ecumenist, 1925",
+  "dates": [
+   "04-07"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 31:10-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 72"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Peter 1:3-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 21:28-32"
+   }
+  ]
+ },
+ "LFF.Apr_Muhlenberg": {
+  "name": "William Augustus Muhlenberg",
+  "sub": "Priest, 1877",
+  "dates": [
+   "04-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 63:7-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 100"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 1:12-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 21:12-16"
+   }
+  ]
+ },
+ "LFF.Apr_Bonhoeff": {
+  "name": "Dietrich Bonhoeffer",
+  "sub": "Pastor and Theologian, 1945",
+  "dates": [
+   "04-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judges 7:1-8a"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:81-88"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 6:3-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 13:47-52"
+   }
+  ]
+ },
+ "LFF.Apr_Law": {
+  "name": "William Law",
+  "sub": "Priest, 1761",
+  "dates": [
+   "04-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 1:11-20"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 128"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Peter 1:3-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 6:1-8"
+   }
+  ]
+ },
+ "LFF.Apr_Selwyn": {
+  "name": "George Augustus Selwyn",
+  "sub": "Bishop, 1878",
+  "dates": [
+   "04-11"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 1:1-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 21:1-4"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 2:8-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 10:7-16"
+   }
+  ]
+ },
+ "LFF.Apr_Zenaida": {
+  "name": "Zenaida, Philonella, and Hermione",
+  "sub": "Unmercenary Physicians, c.100, c.117",
+  "dates": [
+   "04-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 38:1-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 147"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 2:43-47"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 1:29-34"
+   }
+  ]
+ },
+ "LFF.Apr_DamienCope": {
+  "name": "Damien, Priest, 1889 and Marianne Cope, Monastic",
+  "sub": "1918 of Hawaii",
+  "dates": [
+   "04-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 57:14-19"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 32:7-12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 4:9-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 11:1-6"
+   }
+  ]
+ },
+ "LFF.Apr_Cassey": {
+  "name": "Peter Williams Cassey, Deacon, 1917 and Annie Besant Cassey",
+  "sub": "1875",
+  "dates": [
+   "04-16"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 22:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 13"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:31-39"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 5:13-16"
+   }
+  ]
+ },
+ "LFF.Apr_Tekakwitha": {
+  "name": "Kateri Tekakwitha",
+  "sub": "Lay Contemplative, 1680",
+  "dates": [
+   "04-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 19:19-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 6"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Thessalonians 5:16-24"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 8:18-22"
+   }
+  ]
+ },
+ "LFF.Apr_de la Cruz": {
+  "name": "Juana In\u00e9s de la Cruz",
+  "sub": "Monastic and Theologian, 1695",
+  "dates": [
+   "04-18"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judith 16:1-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 56:8-12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 4:20-27"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 5:17-20"
+   }
+  ]
+ },
+ "LFF.Apr_Alphege": {
+  "name": "Alphege",
+  "sub": "Archbishop of Canterbury, and Martyr, 1012",
+  "dates": [
+   "04-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Micah 2:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 30:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 1:24-29"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:35-40"
+   }
+  ]
+ },
+ "LFF.Apr_Anselm": {
+  "name": "Anselm",
+  "sub": "Archbishop of Canterbury, 1109",
+  "dates": [
+   "04-21"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 6:12-16"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 108:1-6"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 5:1-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 11:25-30"
+   }
+  ]
+ },
+ "LFF.Apr_Hadewijch": {
+  "name": "Hadewijch of Brabant",
+  "sub": "Poet and Mystic, thirteenth century",
+  "dates": [
+   "04-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 52:13-53:12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 57:6-11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 5:22-26"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 19:31-37"
+   }
+  ]
+ },
+ "LFF.Apr_Kagawa": {
+  "name": "Toyohiko Kagawa",
+  "sub": "Social Reformer, 1960",
+  "dates": [
+   "04-23"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Job 13:13-22"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 140"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 1:12-20"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 22:47-53"
+   }
+  ]
+ },
+ "LFF.Apr_Zita": {
+  "name": "Zita of Tuscany",
+  "sub": "Worker of Charity, 1271",
+  "dates": [
+   "04-27"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 1:15-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 16"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 2:1-7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 12:41-44"
+   }
+  ]
+ },
+ "LFF.Apr_Catherine": {
+  "name": "Catherine",
+  "sub": "of Siena, Mystic and Prophetic Witness, 1380",
+  "dates": [
+   "04-29"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Lamentations 3:31-36"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 36"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 1:5-2:2"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:22-31"
+   }
+  ]
+ },
+ "LFF.May_Athanas": {
+  "name": "Athanasius of Alexandria",
+  "sub": "Bishop and Theologian, 373",
+  "dates": [
+   "05-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ezekiel 3:1-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 71:1-8",
+    "textRefs": {
+     "Psalm 71:1-8": "Psalm 71:1-6"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 5:1-5"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 10:24-33"
+   }
+  ]
+ },
+ "LFF.May_Cruciger": {
+  "name": "Elisabeth Cruciger",
+  "sub": "Poet and Hymnographer, 1535",
+  "dates": [
+   "05-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Joel 2:23-29"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 26"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 3:11-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 4:26-29"
+   }
+  ]
+ },
+ "LFF.May_Monica": {
+  "name": "Monica",
+  "sub": "Mother of Augustine of Hippo, 387",
+  "dates": [
+   "05-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 1:10-20"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 115:12-18"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 4:1-12a"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 7:11-17"
+   }
+  ]
+ },
+ "LFF.May_ReformationMartyrs": {
+  "name": "Martyrs of the Reformation Era",
+  "sub": "",
+  "dates": [
+   "05-05"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ezekiel 34:1-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 51:10-17"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 4:7-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 7:1-6"
+   }
+  ]
+ },
+ "LFF.May_GeorgeLydda": {
+  "name": "George of Lydda",
+  "sub": "Martyr 8 Julian of Norwich , Mystic and Theologian, c.1417",
+  "dates": [
+   "05-06"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Joshua 1:7-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 3"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:18-21"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.May_Gregory": {
+  "name": "Gregory of Nazianzus",
+  "sub": "Bishop and Theologian, 389",
+  "dates": [
+   "05-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jonah 1:1-16"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 19:7-14"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 3:14-21"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 8:25-32"
+   }
+  ]
+ },
+ "LFF.May_ArndtBoehme": {
+  "name": "Johann Arndt and Jacob Boehme",
+  "sub": "Mystics, 1621 and 1624",
+  "dates": [
+   "05-11"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 17:1-7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:25-32"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 7:21-25"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 6:45-52"
+   }
+  ]
+ },
+ "LFF.May_Perkins": {
+  "name": "Frances Perkins",
+  "sub": "Social Reformer, 1965",
+  "dates": [
+   "05-13"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Deuteronomy 15:7-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 37:27-31"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 4:25-5:2"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 9:10-17"
+   }
+  ]
+ },
+ "LFF.May_Pachomius": {
+  "name": "Pachomius of Tabennisi",
+  "sub": "Monastic, 348",
+  "dates": [
+   "05-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 10:20-27"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 16"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Timothy 2:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 10:23-31"
+   }
+  ]
+ },
+ "LFF.May_Marshall": {
+  "name": "Thurgood Marshall",
+  "sub": "Public Servant, 1993",
+  "dates": [
+   "05-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Amos 5:10-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 34:15-22"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 13:1-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 23:1-12"
+   }
+  ]
+ },
+ "LFF.May_Dunstan": {
+  "name": "Dunstan",
+  "sub": "Archbishop of Canterbury, 988",
+  "dates": [
+   "05-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 25:31-40"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 57:6-11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 5:15-20"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 24:42-47"
+   }
+  ]
+ },
+ "LFF.May_Alcuin": {
+  "name": "Alcuin",
+  "sub": "Deacon, and Abbot of Tours, 80",
+  "dates": [
+   "05-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 3:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 107:1-8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Titus 2:1-3"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 13:24-30"
+   }
+  ]
+ },
+ "LFF.May_Lydia": {
+  "name": "Lydia of Thyatira",
+  "sub": "Coworker of the Apostle Paul",
+  "dates": [
+   "05-21"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Malachi 3:16-18",
+    "alternates": [
+     "Acts 16:11-15"
+    ]
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 100"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 15:8-10"
+   }
+  ]
+ },
+ "LFF.May_Helena": {
+  "name": "Helena of Constantinople",
+  "sub": "Protector of the Holy Places, 330",
+  "dates": [
+   "05-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Micah 4:1-4"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 2"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 8:7-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 23:26-32"
+   }
+  ]
+ },
+ "LFF.May_Kemper": {
+  "name": "Jackson Kemper",
+  "sub": "Bishop and Missionary, 1870",
+  "dates": [
+   "05-24"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 15:22-25"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 67"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 3:8-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 13:1-9"
+   }
+  ]
+ },
+ "LFF.May_Bede": {
+  "name": "Bede the Venerable",
+  "sub": "Priest and Historian, 735",
+  "dates": [
+   "05-25"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 12:9-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 139:10-17"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 15:1-8"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 13:31-33"
+   }
+  ]
+ },
+ "LFF.May_Augustine": {
+  "name": "Augustine",
+  "sub": "First Archbishop of Canterbury, 605",
+  "dates": [
+   "05-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Tobit 13:1, 10-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 66:1-8",
+    "textRefs": {
+     "Psalm 66:1-8": "Psalm 66:1-9"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 5:17-21"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 5:1-11"
+   }
+  ]
+ },
+ "LFF.May_Mechthild": {
+  "name": "Mechthild of Magdeburg",
+  "sub": "Mystic, c.1282",
+  "dates": [
+   "05-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Song of Songs 3:1-5"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 71:17-23"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Thessalonians 3:6-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 8:22-26"
+   }
+  ]
+ },
+ "LFF.Jun_Justin": {
+  "name": "Justin",
+  "sub": "Martyr, c.167",
+  "dates": [
+   "06-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Deuteronomy 7:7-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 116:1-9"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 1:18-25"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 12:44-50"
+   }
+  ]
+ },
+ "LFF.Jun_Blandina": {
+  "name": "Blandina and Her Companions",
+  "sub": "The Martyrs of Lyons, 177",
+  "dates": [
+   "06-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 12:1-4"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 3"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 1:3-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 14:32-42"
+   }
+  ]
+ },
+ "LFF.Jun_Uganda": {
+  "name": "The Martyrs of Uganda",
+  "sub": "1886",
+  "dates": [
+   "06-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Habakkuk 2:9-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 138"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Hebrews 10:32-39"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 24:9-14"
+   }
+  ]
+ },
+ "LFF.Jun_JohnXXIII": {
+  "name": "John XXIII (Angelo Guiseppe Roncalli)",
+  "sub": "Bishop, 1963",
+  "dates": [
+   "06-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Numbers 11:10-17"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 50:1-6"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 5:1-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 5:36-39"
+   }
+  ]
+ },
+ "LFF.Jun_Boniface": {
+  "name": "Boniface",
+  "sub": "Bishop and Missionary, 754",
+  "dates": [
+   "06-05"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 3:16-22"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 115:1-8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 20:17-28"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 8:27-30"
+   }
+  ]
+ },
+ "LFF.Jun_Melania": {
+  "name": "Melania the Elder",
+  "sub": "Monastic, 410",
+  "dates": [
+   "06-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 4:24-26"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:113-120"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:18-25"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 8:14-21"
+   }
+  ]
+ },
+ "LFF.Jun_Columba": {
+  "name": "Columba of Iona,",
+  "sub": "Monastic, 597",
+  "dates": [
+   "06-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 19:18-22"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 111"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 3:16-23"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:17-20"
+   }
+  ]
+ },
+ "LFF.Jun_Ephrem": {
+  "name": "Ephrem of Nisibis",
+  "sub": "Deacon and Poet, 373",
+  "dates": [
+   "06-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Job 38:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 68:11-18"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 3:8-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 9:38-41"
+   }
+  ]
+ },
+ "LFF.Jun_Enmeg": {
+  "name": "Enmegahbowh",
+  "sub": "Priest and Missionary, 1902",
+  "dates": [
+   "06-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 52:1-6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 129"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 5:1-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 6:17-26"
+   }
+  ]
+ },
+ "LFF.Jun_FirstBCP": {
+  "name": "Book of Common Prayer, 1549",
+  "sub": "",
+  "dates": [
+   "06-13"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 8:54-61"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 103:8-12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 2:38-42"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 8:16-18"
+   }
+  ]
+ },
+ "LFF.Jun_Basil": {
+  "name": "Basil of Caesarea",
+  "sub": "Bishop and Theologian, 379",
+  "dates": [
+   "06-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ezekiel 22:23-30"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 139:1-9"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 2:6-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:21-24"
+   }
+  ]
+ },
+ "LFF.Jun_Underhill": {
+  "name": "Evelyn Underhill",
+  "sub": "Mystic and Writer, 1941",
+  "dates": [
+   "06-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Kings 22:14-20"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 96:7-13"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 4:1-5"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 4:19-24"
+   }
+  ]
+ },
+ "LFF.Jun_Butler": {
+  "name": "Joseph Butler",
+  "sub": "Bishop and Theologian, 1752",
+  "dates": [
+   "06-16"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 1:12-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 134"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 13:38-44"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:25-28"
+   }
+  ]
+ },
+ "LFF.Jun_Marina": {
+  "name": "Marina the Monk",
+  "sub": "Monastic, fifth century",
+  "dates": [
+   "06-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Susanna 34-46"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 148"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 1:19-27"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 18:18-30"
+   }
+  ]
+ },
+ "LFF.Jun_Mizeki": {
+  "name": "Bernard Mizeki",
+  "sub": "Martyr, 1896",
+  "dates": [
+   "06-18"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Nehemiah 6:6-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 70"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 7:13-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:1-12"
+   }
+  ]
+ },
+ "LFF.Jun_Case": {
+  "name": "Adelaide Teague Case",
+  "sub": "Educator, 1948",
+  "dates": [
+   "06-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 4:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 134"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Hebrews 5:11-6:1"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 4:21-25"
+   }
+  ]
+ },
+ "LFF.Jun_Alban": {
+  "name": "Alban",
+  "sub": "Martyr, c.304",
+  "dates": [
+   "06-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 3:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 125"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 3:13-16"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 10:34-42"
+   }
+  ]
+ },
+ "LFF.Jun_Hapgood": {
+  "name": "Isabel Florence Hapgood",
+  "sub": "Ecumenist, 1928",
+  "dates": [
+   "06-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Numbers 27:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 24"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 5:8-14"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:5-8"
+   }
+  ]
+ },
+ "LFF.Jun_Irenaeus": {
+  "name": "Irenaeus of Lyons",
+  "sub": "Bishop and Theologian, c.202",
+  "dates": [
+   "06-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 8:6-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Timothy 2:22-26"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 11:33-36"
+   }
+  ]
+ },
+ "LFF.Jul_Murray": {
+  "name": "Pauli Murray",
+  "sub": "Priest, 1985",
+  "dates": [
+   "07-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 55:10-13"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:17-24"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 3:23-29"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 12:1-12"
+   }
+  ]
+ },
+ "LFF.Jul_MosesTheBlack": {
+  "name": "Moses the Black",
+  "sub": "Monastic and Martyr, c.400",
+  "dates": [
+   "07-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Chronicles 28:8-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 62"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 22:6-21"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 23:39-43"
+   }
+  ]
+ },
+ "LFF.Jul_Matthews": {
+  "name": "Eva Lee Matthews",
+  "sub": "Monastic, 1928",
+  "dates": [
+   "07-06"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Micah 6:6-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 90:1-12",
+    "textRefs": {
+     "Psalm 90:1-12": "Psalm 90:1-8, (9-11), 12"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 4:32-35"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 26:6-13"
+   }
+  ]
+ },
+ "LFF.Jul_PriscillaAquila": {
+  "name": "Priscilla and Aquila",
+  "sub": "Coworkers of the Apostle Paul",
+  "dates": [
+   "07-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 23:23-32"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 18:30-36"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 18:1-4, 18-21, 24-28"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 24:28-35"
+   }
+  ]
+ },
+ "LFF.Jul_Benedict": {
+  "name": "Benedict of Nursia",
+  "sub": "Monastic, c.543",
+  "dates": [
+   "07-11"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 17:2-6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 4:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 2:12-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 14:26-33"
+   }
+  ]
+ },
+ "LFF.Jul_ArgulVonGrumbach": {
+  "name": "Argula von Grumbach",
+  "sub": "Scholar and Church Reformer, c.1554",
+  "dates": [
+   "07-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judges 4:4-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 118:19-29",
+    "textRefs": {
+     "Psalm 118:19-29": "Psalm 118:14-29"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 2:8-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 7:24-29"
+   }
+  ]
+ },
+ "LFF.Jul_White": {
+  "name": "William White",
+  "sub": "Bishop, 1836",
+  "dates": [
+   "07-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 1:4-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 40:4-10",
+    "textRefs": {
+     "Psalm 40:4-10": "Psalm 40:5-10"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Timothy 3:1-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 4:30-34"
+   }
+  ]
+ },
+ "LFF.Jul_Macrina": {
+  "name": "Macrina of Caesarea",
+  "sub": "Monastic and Teacher, 379",
+  "dates": [
+   "07-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 51:13-22"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:121-128"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 3:7-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 3:20-34"
+   }
+  ]
+ },
+ "LFF.Jul_Stanton": {
+  "name": "Elizabeth Cady Stanton, Amelia Bloomer, and Sojourner Truth",
+  "sub": "Social Reformers",
+  "dates": [
+   "07-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Esther 1:1-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 146"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 4:10-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 11:5-10"
+   }
+  ]
+ },
+ "LFF.Jul_Skobtsova": {
+  "name": "Maria Skobtsova",
+  "sub": "Monastic and Martyr, 1945",
+  "dates": [
+   "07-21"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judges 5:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 9:7-10"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:28-30"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 2:1-10"
+   }
+  ]
+ },
+ "LFF.Jul_Cassian": {
+  "name": "John Cassian",
+  "sub": "Monastic and Theologian, 435",
+  "dates": [
+   "07-23"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Kings 2:9-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 145:1-7",
+    "textRefs": {
+     "Psalm 145:1-7": "Psalm 145:1-8"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 3:1-3"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 1:1-14"
+   }
+  ]
+ },
+ "LFF.Jul_Kempis": {
+  "name": "Thomas a Kempis",
+  "sub": "Priest and Mystic, 1471",
+  "dates": [
+   "07-24"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 1:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 113"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 4:32-5:2"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 18:18-20"
+   }
+  ]
+ },
+ "LFF.Jul_Parents": {
+  "name": "The Parents of the Blessed Virgin Mary",
+  "sub": "",
+  "dates": [
+   "07-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 17:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 132:11-19"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Thessalonians 1:1-5"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 1:26-33"
+   }
+  ]
+ },
+ "LFF.Jul_Hunting": {
+  "name": "William Reed Huntington",
+  "sub": "Priest, 1909",
+  "dates": [
+   "07-27"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Joel 2:12-17"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 133"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 6:14-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 17:20-26"
+   }
+  ]
+ },
+ "LFF.Jul_BachHandel": {
+  "name": "Johann Sebastian Bach",
+  "sub": "Composer, 1750",
+  "dates": [
+   "07-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Chronicles 5:11-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 150"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 2:2-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 2:8-14"
+   }
+  ]
+ },
+ "LFF.Jul_MaryMart": {
+  "name": "Mary and Martha",
+  "sub": "of Bethany or [ The Philadelphia Eleven",
+  "dates": [
+   "07-29"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 25:18-38"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 36:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 12:9-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:38-42"
+   }
+  ]
+ },
+ "LFF.Jul_Wilber": {
+  "name": "William Wilberforce",
+  "sub": "Social Reformer, 1833",
+  "dates": [
+   "07-30"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Samuel 12:1-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 35:23-28"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 5:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 20:1-16"
+   }
+  ]
+ },
+ "LFF.Jul_Ignatius": {
+  "name": "Ignatius of Loyola",
+  "sub": "Priest and Spiritual Writer, 1556",
+  "dates": [
+   "07-31"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 32:22-31"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 22:27-30"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 10:31-11:1"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 9:57-62"
+   }
+  ]
+ },
+ "LFF.Aug_Arimathea": {
+  "name": "Joseph of Arimathaea",
+  "sub": "",
+  "dates": [
+   "08-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 4:10-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 128"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 1:17-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 23:50-56"
+   }
+  ]
+ },
+ "LFF.Aug_JoannaMarySalome": {
+  "name": "Joanna, Mary, and Salome",
+  "sub": "Myrrh-Bearing Women",
+  "dates": [
+   "08-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Job 2:11-13"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 50"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 2:29-36"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 16:1-8"
+   }
+  ]
+ },
+ "LFF.Aug_Neale": {
+  "name": "John Mason Neale",
+  "sub": "Priest and Hymnographer, 1866",
+  "dates": [
+   "08-07"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Chronicles 20:20-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 102:18-28"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 1:1-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 13:44-46"
+   }
+  ]
+ },
+ "LFF.Aug_Dominic": {
+  "name": "Dominic",
+  "sub": "Priest and Friar, 1221",
+  "dates": [
+   "08-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 12:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 103:1-7",
+    "textRefs": {
+     "Psalm 103:1-7": "Psalm 103:1-8"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 10:13-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 7:16-18"
+   }
+  ]
+ },
+ "LFF.Aug_Stein": {
+  "name": "Edith Stein (Teresa Benedicta of the Cross)",
+  "sub": "Philosopher, Monastic, and Martyr, 1942",
+  "dates": [
+   "08-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 31:31-34"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:49-56"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 12:1-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 3:1-15"
+   }
+  ]
+ },
+ "LFF.Aug_Laurence": {
+  "name": "Laurence of Rome",
+  "sub": "Deacon and Martyr, 258",
+  "dates": [
+   "08-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Daniel 3:19-27"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 126"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 9:6-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 14:12-14"
+   }
+  ]
+ },
+ "LFF.Aug_Clare": {
+  "name": "Clare of Assisi",
+  "sub": "Monastic, 1253",
+  "dates": [
+   "08-11"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 5:8-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 49:16-20"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 4:1-2"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:32-34"
+   }
+  ]
+ },
+ "LFF.Aug_Nighting": {
+  "name": "Florence Nightingale",
+  "sub": "Nurse, 1910",
+  "dates": [
+   "08-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 30:12-17"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 41"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 12:4-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:29-37"
+   }
+  ]
+ },
+ "LFF.Aug_Taylor": {
+  "name": "Jeremy Taylor",
+  "sub": "Bishop and Theologian, 1667",
+  "dates": [
+   "08-13"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ecclesiastes 3:1-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 114"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 14:7-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 13:32-37"
+   }
+  ]
+ },
+ "LFF.Aug_Daniels": {
+  "name": "Jonathan Myrick Daniels",
+  "sub": "Martyr, 1965",
+  "dates": [
+   "08-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Amos 5:18-24"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 85:7-13",
+    "textRefs": {
+     "Psalm 85:7-13": "Psalm 85:8-13"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 3:22-28"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 1:46-55"
+   }
+  ]
+ },
+ "LFF.Aug_Bernard": {
+  "name": "Bernard of Clairvaux",
+  "sub": "Monastic and Theologian, 1153",
+  "dates": [
+   "08-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Song of Songs 1:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 139:1-9"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Jude 1-3"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 10:23-31"
+   }
+  ]
+ },
+ "LFF.Aug_Louis": {
+  "name": "Louis",
+  "sub": "King, 1270",
+  "dates": [
+   "08-25"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 7:1-6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 21:1-7"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 2:6-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 2:13-17"
+   }
+  ]
+ },
+ "LFF.Aug_Gallaudet": {
+  "name": "Thomas Gallaudet and Henry Winter Syle",
+  "sub": "Priests, 1902 and 1890 or [ Simeon Bachos the Ethiopian Eunuch",
+  "dates": [
+   "08-27"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 35:1-7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:1-8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Thessalonians 1:3-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 7:31-37"
+   }
+  ]
+ },
+ "LFF.Aug_Augustine": {
+  "name": "Augustine of Hippo",
+  "sub": "Bishop and Theologian, 430",
+  "dates": [
+   "08-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 16:20-26"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 87"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Hebrews 12:22-29"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 14:5-15"
+   }
+  ]
+ },
+ "LFF.Aug_Beheading": {
+  "name": "The Beheading of Saint John the Baptist",
+  "sub": "",
+  "dates": [
+   "08-29"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 2:23-3:9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 5:1-5",
+    "textRefs": {
+     "Psalm 5:1-5": "Psalm 5:1-8"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 4:5-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 14:1-12"
+   }
+  ]
+ },
+ "LFF.Aug_Ward": {
+  "name": "Margaret Ward, Margaret Clitherow, and Anne Line",
+  "sub": "Martyrs, 1588, 1586, and 1601",
+  "dates": [
+   "08-30"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ezekiel 37:1-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 43"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 1:16-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 13:3-13"
+   }
+  ]
+ },
+ "LFF.Aug_Aidan": {
+  "name": "Aidan of Lindisfarne",
+  "sub": "Bishop, 651",
+  "dates": [
+   "08-31"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 3:21-32"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 103:13-18"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 9:16-23"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 19:27-30"
+   }
+  ]
+ },
+ "LFF.Sep_Oakerhater": {
+  "name": "David Pendleton Oakerhater",
+  "sub": "Deacon, 1931",
+  "dates": [
+   "09-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Daniel 1:1-17"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:1-9"
+   }
+  ]
+ },
+ "LFF.Sep_NewGuinea": {
+  "name": "The Martyrs of New Guinea",
+  "sub": "1942",
+  "dates": [
+   "09-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Chronicles 22:11-13"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 130"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 7:9-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:4-12"
+   }
+  ]
+ },
+ "LFF.Sep_Phoebe": {
+  "name": "Phoebe",
+  "sub": "Deacon",
+  "dates": [
+   "09-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ezekiel 2:1-7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 40:4-10",
+    "textRefs": {
+     "Psalm 40:4-10": "Psalm 40:5-10"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 16:1-7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 11:42-54"
+   }
+  ]
+ },
+ "LFF.Sep_Jones": {
+  "name": "Paul Jones",
+  "sub": "Bishop, 1941",
+  "dates": [
+   "09-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Malachi 2:17-3:5"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 120"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 3:8-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 8:31-36"
+   }
+  ]
+ },
+ "LFF.Sep_Zell": {
+  "name": "Katharina Zell",
+  "sub": "Church Reformer and Writer, 1562",
+  "dates": [
+   "09-05"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 38:6-26"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 71:17-23"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 5:13-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 4:23-30"
+   }
+  ]
+ },
+ "LFF.Sep_More": {
+  "name": "Hannah More",
+  "sub": "Religious Writer and Philanthropist, 1833",
+  "dates": [
+   "09-06"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 21:14-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 146:4-9",
+    "textRefs": {
+     "Psalm 146:4-9": "Psalm 146:5-10"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 13:8-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 9:1-12"
+   }
+  ]
+ },
+ "LFF.Sep_Kassiani": {
+  "name": "Kassiani",
+  "sub": "Poet and Hymnographer, 865 or [ Elie Naud , Huguenot Witness to the Faith, 1722",
+  "dates": [
+   "09-07"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 2:1-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 57:6-11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 7:29-35"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 4:30-34"
+   }
+  ]
+ },
+ "LFF.Sep_NativityMary": {
+  "name": "The Nativity of the Blessed Virgin Mary",
+  "sub": "",
+  "dates": [
+   "09-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 1:10-20"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 27:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 1:3-14"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 1:26-38"
+   }
+  ]
+ },
+ "LFF.Sep_Constance": {
+  "name": "Constance, Thecla, Ruth, Frances, Charles Parsons, and Louis Schuyler",
+  "sub": "Martyrs, 1878",
+  "dates": [
+   "09-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 18:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 17:6-10"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 1:3-5"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 12:24-28"
+   }
+  ]
+ },
+ "LFF.Sep_Crummell": {
+  "name": "Alexander Crummell",
+  "sub": "Priest, 1898",
+  "dates": [
+   "09-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 39:6-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 19:7-11",
+    "textRefs": {
+     "Psalm 19:7-11": "Psalm 19:7-14"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 1:2-5"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 4:21-25"
+   }
+  ]
+ },
+ "LFF.Sep_Hobart": {
+  "name": "John Henry Hobart",
+  "sub": "Bishop of New York, 1830",
+  "dates": [
+   "09-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Job 38:1, 22-30"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 92:1-7"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Titus 1:7-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 8:1-13"
+   }
+  ]
+ },
+ "LFF.Sep_Cyprian": {
+  "name": "Cyprian of Carthage",
+  "sub": "Bishop and Martyr, 258",
+  "dates": [
+   "09-13"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 14:13-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 116:10-17"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 4:11-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 10:11-16"
+   }
+  ]
+ },
+ "LFF.Sep_CatherineGenoa": {
+  "name": "Catherine of Genoa",
+  "sub": "Mystic and Nurse, 1510",
+  "dates": [
+   "09-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Zephaniah 1:7-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 86:3-12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 5:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 9:43-50"
+   }
+  ]
+ },
+ "LFF.Sep_Ninian": {
+  "name": "Ninian",
+  "sub": "Bishop, c.430",
+  "dates": [
+   "09-16"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Numbers 22:21-33"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 97"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 10:21-35"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 28:16-20"
+   }
+  ]
+ },
+ "LFF.Sep_Hildegard": {
+  "name": "Hildegard of Bingen",
+  "sub": "Mystic and Scholar, 1179",
+  "dates": [
+   "09-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 43:1-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 3:14-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 3:16-21"
+   }
+  ]
+ },
+ "LFF.Sep_Pusey": {
+  "name": "Edward Bouverie Pusey",
+  "sub": "Priest, 1882",
+  "dates": [
+   "09-18"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ezekiel 36:24-28"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 106:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 2:19-23"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 18:12-14"
+   }
+  ]
+ },
+ "LFF.Sep_Theodore": {
+  "name": "Theodore of Tarsus",
+  "sub": "Archbishop of Canterbury, 690",
+  "dates": [
+   "09-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Malachi 2:5-7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 34:9-14"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 2:14-26"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 24:42-47"
+   }
+  ]
+ },
+ "LFF.Sep_Patteson": {
+  "name": "John Coleridge Patteson",
+  "sub": "Bishop, and his Companions, Martyrs, 1871",
+  "dates": [
+   "09-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Chronicles 21:1-13"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 9:11-20",
+    "textRefs": {
+     "Psalm 9:11-20": "Psalm 9:9-20"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 4:12-19"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 8:34-38"
+   }
+  ]
+ },
+ "LFF.Sep_Chase": {
+  "name": "Philander Chase",
+  "sub": "Bishop, 1852 or [ Episcopal Deaconesses ]-->",
+  "dates": [
+   "09-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 44:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 117"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 18:7-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 9:1-6"
+   }
+  ]
+ },
+ "LFF.Sep_Thecla": {
+  "name": "Thecla of Iconium",
+  "sub": "Proto-Martyr Among Women, c.70",
+  "dates": [
+   "09-23"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judges 4:16-24"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 123"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Timothy 3:10-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 24:1-11"
+   }
+  ]
+ },
+ "LFF.Sep_Alexander": {
+  "name": "Anna Ellison Butler Alexander",
+  "sub": "Deaconess and Teacher, 1947",
+  "dates": [
+   "09-24"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Deuteronomy 6:4-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 78:1-7"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Timothy 3:14-4:5"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 11:25-30"
+   }
+  ]
+ },
+ "LFF.Sep_Sergius": {
+  "name": "Sergius of Radonezh",
+  "sub": "Monastic, Moscow, 1392",
+  "dates": [
+   "09-25"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 29:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 39:4-8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 2:15-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 2:23-28"
+   }
+  ]
+ },
+ "LFF.Sep_Lance": {
+  "name": "Lancelot Andrewes",
+  "sub": "Bishop, 1626",
+  "dates": [
+   "09-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 11:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 63:1-7",
+    "textRefs": {
+     "Psalm 63:1-7": "Psalm 63:1-8"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Timothy 2:1-7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 11:1-4"
+   }
+  ]
+ },
+ "LFF.Sep_Euphrosyne": {
+  "name": "Euphrosyne/Smaragdus of Alexandria",
+  "sub": "Monastic, fifth century",
+  "dates": [
+   "09-27"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judges 11:32-40"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 19"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 13:8-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 14:26-33"
+   }
+  ]
+ },
+ "LFF.Sep_Paula": {
+  "name": "Paula and Eustochium of Rome",
+  "sub": "Monastics and Scholars, 404 and c.419",
+  "dates": [
+   "09-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judith 8:9-17"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 111"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 4:1-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 8:1-3"
+   }
+  ]
+ },
+ "LFF.Sep_Jerome": {
+  "name": "Jerome",
+  "sub": "Priest, and Scholar, 420",
+  "dates": [
+   "09-30"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Numbers 9:15-23"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 19:7-14"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 3:5-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 24:44-48"
+   }
+  ]
+ },
+ "LFF.Oct_Therese": {
+  "name": "Th\u00e9r\u00e8se of Lisieux",
+  "sub": "Monastic, 1897",
+  "dates": [
+   "10-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judith 8:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:57-64"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 3:1-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 21:1-4"
+   }
+  ]
+ },
+ "LFF.Oct_Remegius": {
+  "name": "Remigius of Rheims",
+  "sub": "Bishop, c.530",
+  "dates": [
+   "10-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 10:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 135:13-21"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 4:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 14:1-7"
+   }
+  ]
+ },
+ "LFF.Oct_Mott": {
+  "name": "John Raleigh Mott",
+  "sub": "Ecumenist and Missionary, 1955",
+  "dates": [
+   "10-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 60:1-5"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 133"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 2:12-14"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 7:11-17"
+   }
+  ]
+ },
+ "LFF.Oct_Francis": {
+  "name": "Francis of Assisi",
+  "sub": "Friar, 1226",
+  "dates": [
+   "10-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Job 39:1-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 121"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 4:32-35, 5:1-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:13-21"
+   }
+  ]
+ },
+ "LFF.Oct_Birgitta": {
+  "name": "Birgitta of Sweden",
+  "sub": "Mystic, 1373",
+  "dates": [
+   "10-07"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 28:3-19"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 14:6-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 11:2-15"
+   }
+  ]
+ },
+ "LFF.Oct_Grosseteste": {
+  "name": "Robert Grosseteste",
+  "sub": "Bishop, 1253",
+  "dates": [
+   "10-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ezekiel 1:1-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 90:13-17",
+    "textRefs": {
+     "Psalm 90:13-17": "Psalm 90:12-17"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Titus 2:11-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 16:10-15"
+   }
+  ]
+ },
+ "LFF.Oct_Scudder": {
+  "name": "Vida Dutton Scudder",
+  "sub": "Educator, 1954",
+  "dates": [
+   "10-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Job 38:1, 34-41"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 25:1-14",
+    "textRefs": {
+     "Psalm 25:1-14": "Psalm 25:1-10"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 12:1-2, 14-21"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 6:37-51"
+   }
+  ]
+ },
+ "LFF.Oct_Philip": {
+  "name": "Philip",
+  "sub": "Deacon and Evangelist",
+  "dates": [
+   "10-11"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Leviticus 19:9-16"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 67"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 8:26-40"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 24:13-27"
+   }
+  ]
+ },
+ "LFF.Oct_Cavell": {
+  "name": "Edith Cavell",
+  "sub": "Nurse, 1915",
+  "dates": [
+   "10-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Joshua 2:1-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 46"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 2:1-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 18:21-35"
+   }
+  ]
+ },
+ "LFF.Oct_Scheres": {
+  "name": "Samuel Isaac Joseph Schereschewsky",
+  "sub": "Bishop and Missionary, 1906",
+  "dates": [
+   "10-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 12:1-6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 90:1-12;",
+    "textRefs": {
+     "Psalm 90:1-12;": "Psalm 90:1-8, (9-11), 12"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 4:11-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 15:1-7"
+   }
+  ]
+ },
+ "LFF.Oct_Teresa": {
+  "name": "Teresa of Avila",
+  "sub": "Mystic and Monastic Reformer, 1582",
+  "dates": [
+   "10-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 3:1-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 42:1-7"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:22-27"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 1:35-39"
+   }
+  ]
+ },
+ "LFF.Oct_Latimer": {
+  "name": "Hugh Latimer, Nicholas Ridley, and Thomas Cranmer",
+  "sub": "1555, 1556",
+  "dates": [
+   "10-16"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Zephaniah 3:1-5"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 142"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 3:9-14"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:18-20"
+   }
+  ]
+ },
+ "LFF.Oct_Ignatius": {
+  "name": "Ignatius of Antioch",
+  "sub": "Bishop and Martyr, c.115",
+  "dates": [
+   "10-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 9:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 28"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:18-25"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 12:23-26"
+   }
+  ]
+ },
+ "LFF.Oct_Martyn": {
+  "name": "Henry Martyn",
+  "sub": "Priest and Missionary, 1812",
+  "dates": [
+   "10-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 49:1-7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 98"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 1:8-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 4:21-26"
+   }
+  ]
+ },
+ "LFF.Oct_Cornel": {
+  "name": "Cornelius",
+  "sub": "the Centurion",
+  "dates": [
+   "10-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 56:6-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 29"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 11:1-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 13:22-29"
+   }
+  ]
+ },
+ "LFF.Oct_Tabitha": {
+  "name": "Tabitha (Dorcas) of Joppa",
+  "sub": "",
+  "dates": [
+   "10-25"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Leviticus 19:32-37"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 101:1-4"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 9:36-42"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 25:1-13"
+   }
+  ]
+ },
+ "LFF.Oct_Alfred": {
+  "name": "Alfred",
+  "sub": "King, 899",
+  "dates": [
+   "10-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 6:1-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 21:1-7"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Thessalonians 2:13-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 6:43-49"
+   }
+  ]
+ },
+ "LFF.Oct_Hanning": {
+  "name": "ames Hannington",
+  "sub": "Bishop, and his Companions, Martyrs, 1885",
+  "dates": [
+   "10-29"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 3:17-24"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 124"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 3:14-22"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 10:37-42"
+   }
+  ]
+ },
+ "LFF.Oct_Maryam": {
+  "name": "Maryam of Qidun",
+  "sub": "Monastic, fourth century",
+  "dates": [
+   "10-30"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Hosea 11:1-4, 8-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 31:15-24"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:31-39"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 8:1-11"
+   }
+  ]
+ },
+ "LFF.Nov_AllFaith": {
+  "name": "Commemoration of All Souls / All Faithful Departed",
+  "sub": "",
+  "dates": [
+   "11-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 3:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 130"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Thessalonians 4:13-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 5:24-27"
+   }
+  ]
+ },
+ "LFF.Nov_Hooker": {
+  "name": "Richard Hooker",
+  "sub": "Priest and Theologian, 1600",
+  "dates": [
+   "11-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 44:10-15"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 37:1-9"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 2:6-16"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 17:18-23"
+   }
+  ]
+ },
+ "LFF.Nov_Tyler": {
+  "name": "Adeline Blanchard Tyler and her Companions",
+  "sub": "",
+  "dates": [
+   "11-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 58:1-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 103:1-6",
+    "textRefs": {
+     "Psalm 103:1-6": "Psalm 103:1-8"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 16:1-2, 25-27"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 14:13-21"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Nov_Temple": {
+  "name": "William Temple",
+  "sub": "Archbishop of Canterbury, 1944",
+  "dates": [
+   "11-06"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 22:21-27"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:97-104"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 2:12-13"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 1:1-14"
+   }
+  ]
+ },
+ "LFF.Nov_Willibrord": {
+  "name": "Willibrord",
+  "sub": "Bishop and Missionary, 739",
+  "dates": [
+   "11-07"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Kings 2:19-25"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 105:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 1:1-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 18:1-8"
+   }
+  ]
+ },
+ "LFF.Nov_Ammonius": {
+  "name": "Ammonius",
+  "sub": "Hermit, c.403",
+  "dates": [
+   "11-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 10:20-27"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 24"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 3:1-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 23:1-12"
+   }
+  ]
+ },
+ "LFF.Nov_RolleHiltonKempe": {
+  "name": "Richard Rolle, Walter Hilton, and Margery Kempe",
+  "sub": "Mystics, 1349, 1396, and c.1440",
+  "dates": [
+   "11-09"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Job 26:1-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 63:1-8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 11:33-36"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 4:35-41"
+   }
+  ]
+ },
+ "LFF.Nov_LeoGreat": {
+  "name": "Leo of Rome",
+  "sub": "Bishop, 461",
+  "dates": [
+   "11-10"
+  ],
+  "readings": [
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 77:11-15"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Timothy 1:6-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 5:13-19"
+   }
+  ]
+ },
+ "LFF.Nov_Martin": {
+  "name": "Martin of Tours",
+  "sub": "Bishop, 397",
+  "dates": [
+   "11-11"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Hosea 2:18-23"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 6:1-2"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 25:31-46"
+   }
+  ]
+ },
+ "LFF.Nov_ChSimeon": {
+  "name": "Charles Simeon",
+  "sub": "Priest, 1836",
+  "dates": [
+   "11-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Amos 6:1-7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 108:1-6"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 3:7-12"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 22:1-14"
+   }
+  ]
+ },
+ "LFF.Nov_Seabury": {
+  "name": "Consecration of Samuel Seabury",
+  "sub": "First American Bishop, 1784",
+  "dates": [
+   "11-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 8:1-22"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 110:1-4"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 1:15-26"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 9:35-38"
+   }
+  ]
+ },
+ "LFF.Nov_Herman": {
+  "name": "Herman of Alaska",
+  "sub": "Missionary,1837",
+  "dates": [
+   "11-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Kings 4:38-41"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 148:7-14"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Timothy 1:3-7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 9:46-48"
+   }
+  ]
+ },
+ "LFF.Nov_Margaret": {
+  "name": "Margaret of Scotland",
+  "sub": "Queen, 1093",
+  "dates": [
+   "11-16"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 31:10-20"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 139:10-17"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 John 1-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 13:44-46"
+   }
+  ]
+ },
+ "LFF.Nov_Hugh": {
+  "name": "Hugh, of Lincoln",
+  "sub": "Bishop1200",
+  "dates": [
+   "11-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Tobit 6:1-6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 15"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Titus 2:7-8"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 13:32-37"
+   }
+  ]
+ },
+ "LFF.Nov_Hilda": {
+  "name": "Hilda of Whitby",
+  "sub": "Abbess, 680",
+  "dates": [
+   "11-18"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 6:20-23"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 122"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 4:1-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 19:27-30"
+   }
+  ]
+ },
+ "LFF.Nov_Elizabeth": {
+  "name": "Elizabeth of Hungary",
+  "sub": "Princess, 1231",
+  "dates": [
+   "11-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Tobit 12:8-10"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 112"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 8:7-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:32-34"
+   }
+  ]
+ },
+ "LFF.Nov_Edmund": {
+  "name": "Edmund",
+  "sub": "King, 870",
+  "dates": [
+   "11-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Kings 11:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 7:1-10"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 6:10-20"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 10:16-22"
+   }
+  ]
+ },
+ "LFF.Nov_Mechthilde": {
+  "name": "Mechthilde of Hackeborn and Gertrude the Great",
+  "sub": "Mystics and Thoelogians, 1298 and 1302",
+  "dates": [
+   "11-21"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 1:21-28"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:41-48"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 2:42-47"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:38-42"
+   }
+  ]
+ },
+ "LFF.Nov_ByrdMerbeckeTallis": {
+  "name": "William Byrd, 1623, John Merbecke, 1585, and Thomas Tallis, 1585",
+  "sub": "Musicians",
+  "dates": [
+   "11-21"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Chronicles 15:16,19-25,28"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 47"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 15:1-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:1-8"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Nov_CSLewis": {
+  "name": "Clive Staples Lewis",
+  "sub": "Apologist and Spiritual Writer, 1963",
+  "dates": [
+   "11-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 23:15-18"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 139:1-9"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Peter 1:3-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 16:7-15"
+   }
+  ]
+ },
+ "LFF.Nov_Cecilia": {
+  "name": "Cecilia",
+  "sub": "Martyr at Rome, c. 280",
+  "dates": [
+   "11-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Azariah 1:28-34,52-59,68"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 150"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 15:1-4"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:38-42"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Nov_Clement": {
+  "name": "Clement of Rome",
+  "sub": "Bishop, c.100",
+  "dates": [
+   "11-23"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Chronicles 23:28-32"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 78:1-7"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 2:6-15"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 6:37-45"
+   }
+  ]
+ },
+ "LFF.Nov_CathBarbMarg": {
+  "name": "Catherine of Alexandria, Barbara of Nicomedia, and Margaret of Antioch",
+  "sub": "Martyrs, c.305",
+  "dates": [
+   "11-24"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judith 12:16-13:12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 43"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:31-39"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 5:1-12"
+   }
+  ]
+ },
+ "LFF.Nov_Huntington": {
+  "name": "James Otis Sargent Huntington",
+  "sub": "Monastic and Priest, 1935",
+  "dates": [
+   "11-25"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Nehemiah 5:1-12"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 34:1-8"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 6:14-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 6:34-38"
+   }
+  ]
+ },
+ "LFF.Nov_Watts": {
+  "name": "Isaac Watts",
+  "sub": "Hymnwriter, 1748",
+  "dates": [
+   "11-26"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Chronicles 16:1-6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 108:1-6"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 3:12-17"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 18:35-43"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Nov_Kameha": {
+  "name": "Kamehameha and Emma",
+  "sub": "of Hawaii, King and Queen, 1863 and 1885",
+  "dates": [
+   "11-28"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Micah 4:1-4"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 33:12-22"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 17:22-31"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 25:14-30"
+   }
+  ]
+ },
+ "LFF.Dec_deFoucauld": {
+  "name": "Charles de Foucauld",
+  "sub": "Monastic and Martyr, 1916",
+  "dates": [
+   "12-01"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Habakkuk 3:17-19",
+    "alternates": [
+     "James 1:1-11"
+    ]
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 73:24-29"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 16:25-33"
+   }
+  ]
+ },
+ "LFF.Dec_Williams": {
+  "name": "Channing Moore Williams",
+  "sub": "Bishop and Missionary, 1910",
+  "dates": [
+   "12-02"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 49:22-23"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 96:1-7",
+    "textRefs": {
+     "Psalm 96:1-7": "Psalm 96:1-9"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 1:1-9"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 10:1-12"
+   }
+  ]
+ },
+ "LFF.Dec_Xavier": {
+  "name": "Francis Xavier",
+  "sub": "Priest and Missionary, 1552",
+  "dates": [
+   "12-03"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Sirach 2:1-7"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 62"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 9:16-23"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 16:15-20"
+   }
+  ]
+ },
+ "LFF.Dec_JohnDamascus": {
+  "name": "John of Damascus",
+  "sub": "Priest and Theologian, c.760",
+  "dates": [
+   "12-04"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 16:20-26"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 118:14-21"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 6:1-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 17:20-21"
+   }
+  ]
+ },
+ "LFF.Dec_Clement": {
+  "name": "Clement of Alexandria",
+  "sub": "Priest and Theologian, c.210",
+  "dates": [
+   "12-05"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Samuel 12:20-25"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 34:9-14"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 1:11-20"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 6:57-63"
+   }
+  ]
+ },
+ "LFF.Dec_Nicholas": {
+  "name": "Nicholas of Myra",
+  "sub": "Bishop, c.342",
+  "dates": [
+   "12-06"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 17:7-16"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 145:8-13",
+    "textRefs": {
+     "Psalm 145:8-13": "Psalm 145:8-14"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 4:13-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 10:13-16"
+   }
+  ]
+ },
+ "LFF.Dec_Ambrose": {
+  "name": "Ambrose of Milan",
+  "sub": "Bishop and Theologian, 397",
+  "dates": [
+   "12-07"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 21:17-29"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 27:1-5"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 4:23-31"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 12:35-40"
+   }
+  ]
+ },
+ "LFF.Dec_NFerrar": {
+  "name": "Nicholas Ferrar",
+  "sub": "Deacon, 1637",
+  "dates": [
+   "12-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Proverbs 1:20-33"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 127"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Galatians 6:7-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 13:47-52"
+   }
+  ]
+ },
+ "LFF.Dec_Baxter": {
+  "name": "Richard Baxter",
+  "sub": "Pastor and Writer, 1691",
+  "dates": [
+   "12-08"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Exodus 20:1-17"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 102:11-13,19-22"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 9:24-27"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 6:6-15"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Dec_Barth": {
+  "name": "Karl Barth",
+  "sub": "Pastor and Theologian, 1968",
+  "dates": [
+   "12-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Jeremiah 30:23-31:6"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 76:7-12"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 7:14-25"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 8:34-36"
+   }
+  ]
+ },
+ "LFF.Dec_Merton": {
+  "name": "Thomas Merton",
+  "sub": "Contemplative and Writer, 1968",
+  "dates": [
+   "12-10"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 57:14-19"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 62"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 2:2-10"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 12:27-36"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Dec_Howden": {
+  "name": "Frederick Howden, Jr.",
+  "sub": "Priest and Chaplain of the Armed Forces, 1941",
+  "dates": [
+   "12-11"
+  ],
+  "readings": [
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 18:1-6,18-20"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 15:12-22"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 10:11-18"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Dec_FrancisJane": {
+  "name": "Francis de Sales, Bishop, and Jane de Chantal, Vowed Religious",
+  "sub": "1622 and 1641",
+  "dates": [
+   "12-12"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judges 6:11-24"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 111"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "James 3:13-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 12:41-44"
+   }
+  ]
+ },
+ "LFF.Dec_Lucy": {
+  "name": "Lucy of Syracuse",
+  "sub": "Martyr, 304",
+  "dates": [
+   "12-13"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Esther 4:9-16"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 131"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Revelation 19:5-8"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 1:9-14"
+   }
+  ]
+ },
+ "LFF.Dec_JohnCross": {
+  "name": "John of the Cross",
+  "sub": "Mystic and Monastic Reformer, 1591",
+  "dates": [
+   "12-14"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "1 Kings 19:1-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 121"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Colossians 4:2-6"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 16:12-22"
+   }
+  ]
+ },
+ "LFF.Dec_Nino": {
+  "name": "Nino of Georgia, Missionary",
+  "sub": "c.332",
+  "dates": [
+   "12-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Kings 5:1-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 17:6-10"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Philippians 1:12-18"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 13:10-17"
+   }
+  ]
+ },
+ "LFF.Dec_Horden": {
+  "name": "John Horden",
+  "sub": "Bishop and Missionary in Canada, 1893",
+  "dates": [
+   "12-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Numbers 10:29-36"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 107:35-43"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 6:1-7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 5:1-11"
+   }
+  ]
+ },
+ "LFF.Dec_McDonald": {
+  "name": "Robert McDonald",
+  "sub": "Priest, 1913",
+  "dates": [
+   "12-15"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 66:18-23"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 57:4-11"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Thessalonians 1:2-8"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 9:1-6"
+   }
+  ]
+ },
+ "LFF.Dec_CramUpjohnLaFarge": {
+  "name": "Ralph Adams Cram, 1942, and Richard Upjohn, 1878, Architects, and John LaFarge, Artist, 1910",
+  "sub": "",
+  "dates": [
+   "12-16"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "2 Chronicles 6:12-20"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 118:19-29",
+    "textRefs": {
+     "Psalm 118:19-29": "Psalm 118:14-29"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Ephesians 2:17-22"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 7:24-29"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Dec_Sayers": {
+  "name": "Dorothy L Sayers",
+  "sub": "Apologist and Spiritual Writer, 1957",
+  "dates": [
+   "12-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Judges 3:15-30"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 19"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 Corinthians 12:4-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 21:1-9"
+   }
+  ]
+ },
+ "LFF.Dec_GarrisonStewart": {
+  "name": "William Lloyd Garrison and Maria Stewart",
+  "sub": "1879, Prophetic Witnesses",
+  "dates": [
+   "12-17"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 10:9-14"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 82"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "1 John 2:28-3:3"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Mark 5:25-34"
+   }
+  ],
+  "trial": true
+ },
+ "LFF.Dec_Trasher": {
+  "name": "Lillian Trasher",
+  "sub": "Missionary in Egypt, 1961",
+  "dates": [
+   "12-19"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Genesis 21:8-21"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 10:12-19"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 1:3-7"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 17:1-6"
+   }
+  ]
+ },
+ "LFF.Dec_Katharina": {
+  "name": "Katharina von Bora",
+  "sub": "Church Reformer, 1552 22 [ Henry Budd , Priest, 1875",
+  "dates": [
+   "12-20"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 55:6-11"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 46"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 3:21-28"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 15:1-11"
+   }
+  ]
+ },
+ "LFF.Dec_Moon": {
+  "name": "Charlotte Diggs (Lottie) Moon",
+  "sub": "Missionary in China, 1912",
+  "dates": [
+   "12-22"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Ruth 1:15-19a"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 148:1-6"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "2 Corinthians 5:16-21"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "John 1:29-33"
+   }
+  ]
+ },
+ "LFF.Dec_Becket": {
+  "name": "Thomas Becket",
+  "sub": "Archbishop of Canterbury and Martyr, 1170",
+  "dates": [
+   "12-29"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Wisdom 6:1-8"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 5:1-7",
+    "textRefs": {
+     "Psalm 5:1-7": "Psalm 5:1-8"
+    }
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 5:1-11"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 4:1-13"
+   }
+  ]
+ },
+ "LFF.Dec_Gaudet": {
+  "name": "Frances Joseph Gaudet",
+  "sub": "Educator and Social Reformer, 1934",
+  "dates": [
+   "12-31"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Lamentations 3:26-36"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 146"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Acts 16:25-34"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Luke 4:14-21"
+   }
+  ]
+ },
+ "LFF.Dec_Crowther": {
+  "name": "Samuel Ajayi Crowther",
+  "sub": "Bishop in the Niger Territories, 1891",
+  "dates": [
+   "12-31"
+  ],
+  "readings": [
+   {
+    "id": "first",
+    "label": "First Reading",
+    "reference": "Isaiah 60:4-9"
+   },
+   {
+    "id": "psalm",
+    "label": "The Psalm",
+    "reference": "Psalm 119:57-64"
+   },
+   {
+    "id": "second",
+    "label": "Second Reading",
+    "reference": "Romans 8:15-23"
+   },
+   {
+    "id": "gospel",
+    "label": "The Gospel",
+    "reference": "Matthew 9:35-38"
+   }
+  ],
+  "trial": true
+ }
+}

@@ -8,16 +8,19 @@ import { pathToFileURL } from 'node:url'
 const here = path.dirname(new URL(import.meta.url).pathname)
 const out = path.join(os.tmpdir(), 'webScripture.bundle.mjs')
 await build({ entryPoints: [path.join(here, '../../src/lib/webScripture.js')], bundle: true, format: 'esm', outfile: out, logLevel: 'silent' })
-const { parseReference, fetchWebPassage } = await import(pathToFileURL(out).href)
+const { parseReference, fetchWebPassage, REMAP } = await import(pathToFileURL(out).href)
 const { lectionary } = JSON.parse(fs.readFileSync(path.join(here, 'built.json'), 'utf8'))
 
 const refs = new Set()
 for (const e of Object.values(lectionary)) for (const set of [e.readings, e.track2 || []]) for (const r of set) {
   for (const x of [r.reference, ...(r.alternates || [])]) refs.add(r.textRefs?.[x] || x)
 }
+const readJSON = f => fs.existsSync(path.join(here, f)) ? JSON.parse(fs.readFileSync(path.join(here, f), 'utf8')) : {}
+for (const e of Object.values(readJSON('built_lff.json'))) for (const r of e.readings) for (const x of [r.reference, ...(r.alternates || [])]) refs.add(r.textRefs?.[x] || x)
+for (const svc of Object.values(readJSON('built_special.json'))) for (const opts of Object.values(svc)) for (const o of opts) refs.add(o.textRef || o.ref)
 console.log(refs.size, 'unique references')
 let bad = 0
-for (const r of refs) if (!parseReference(r)) { bad++; console.log('UNPARSEABLE:', r) }
+for (const r of refs) if (!parseReference(REMAP[r] || r)) { bad++; console.log('UNPARSEABLE:', r) }
 console.log('parse failures:', bad)
 if (process.argv.includes('--network')) {
   const list = [...refs]; let empty = 0, done = 0

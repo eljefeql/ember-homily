@@ -24,7 +24,8 @@ for (const [date, v] of Object.entries(truth).sort()) {
   const y = Number(date.slice(0, 4)); if (y < from || y > to) continue
   const want = new Set(v.keys.map(k => pageToKey[k]).filter(Boolean))
   const day = getEpiscopalDay(date)
-  const got = new Set(day ? [day.primary.key, ...day.also.map(a => a.key)] : [])
+  // Lesser Feasts aren't linked in the published calendars, so they're excluded from this comparison
+  const got = new Set((day ? [day.primary.key, ...day.also.map(a => a.key)] : []).filter(k => !k.startsWith('LFF.')))
   // The oracle lists Easter-week/Lesser Feasts pages we don't carry; only compare keys we know about.
   checked++
   const same = want.size === got.size && [...want].every(k => got.has(k))

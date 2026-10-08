@@ -30,6 +30,6 @@ for f in sorted(glob.glob(os.path.join(SRC,'*.html'))):
     res[key]={'title':txt(title.group(1)) if title else None,
               'info':txt(re.sub(r'<br\s*/?>',' | ',more.group(1))) if more else None,
               'items':items}
-json.dump(res,open('parsed_raw.json','w'),indent=1)
+json.dump(res,open(sys.argv[2] if len(sys.argv) > 2 else 'parsed_raw.json','w'),indent=1)
 bad=[k for k,v in res.items() if not v['items']]
 print(len(res),'pages; no readings parsed:',bad)

@@ -1025,7 +1025,10 @@ export const EPISCOPAL_LECTIONARY = {
    {
     "id": "psalm",
     "label": "The Psalm",
-    "reference": "Psalm 69:8-11, (12-17), 18-20"
+    "reference": "Psalm 69:8-11, (12-17), 18-20",
+    "textRefs": {
+     "Psalm 69:8-11, (12-17), 18-20": "Psalm 69:7-10, (11-15), 16-18"
+    }
    },
    {
     "id": "second",
@@ -7017,10 +7020,7 @@ export const EPISCOPAL_LECTIONARY = {
     "reference": "Psalm 103",
     "alternates": [
      "Psalm 103:8-14"
-    ],
-    "textRefs": {
-     "Psalm 103:8-14": "Psalm 103:(1-7), 8-13"
-    }
+    ]
    },
    {
     "id": "second",
@@ -7736,7 +7736,7 @@ export const EPISCOPAL_LECTIONARY = {
      "Psalm 34:1-9"
     ],
     "textRefs": {
-     "Psalm 34:1-9": "Psalm 34:1-8, (19-22)"
+     "Psalm 34:1-9": "Psalm 34:1-8"
     }
    },
    {
@@ -7949,10 +7949,7 @@ export const EPISCOPAL_LECTIONARY = {
     "reference": "Psalm 31",
     "alternates": [
      "Psalm 31:1-5"
-    ],
-    "textRefs": {
-     "Psalm 31:1-5": "Psalm 31:1-5, 15-16"
-    }
+    ]
    },
    {
     "id": "second",

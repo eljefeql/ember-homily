@@ -15,6 +15,8 @@ cd scripts/episcopal
 ./fetch.sh _cache            # polite download of calendars + lesson pages
 python3 parse.py _cache/pg   # -> parsed_raw.json
 python3 build.py _cache      # -> built.json + src/data/episcopalLectionary.js
+python3 parse.py _cache/lffpg _cache/lff_raw.json   # Lesser Feasts pages
+python3 build_extra.py _cache   # -> src/data/episcopalLesserFeasts.js + episcopalSpecial.js (marriage/burial)
 python3 truth.py _cache      # -> truth.json (calendar oracle)
 ```
 
@@ -31,4 +33,5 @@ node scripts/episcopal/show.mjs "Psalm 23"              # WEB text for a citatio
 All Saints offered on the following Sunday, and the Sunday's own lessons offered when a Feast of Our Lord (Holy Name,
 Presentation, Transfiguration) displaces it.
 
-Not yet indexed: weekday lessons (Daily Office / Eucharist), Lesser Feasts and Fasts, special services.
+Lesser Feasts dates come from the Lectionary Page's by-date index (the published calendars don't link them), so they have no
+independent date oracle. Not yet indexed: weekday lessons (Daily Office / Eucharist), other special services.

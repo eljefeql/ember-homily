@@ -6,6 +6,7 @@
 // (see scripts/episcopal/verify-calendar.mjs).
 
 import { EPISCOPAL_LECTIONARY } from './episcopalLectionary'
+import { EPISCOPAL_LESSER_FEASTS } from './episcopalLesserFeasts'
 
 const DAY = 86400000
 
@@ -56,6 +57,20 @@ const ORDINALS = ['', 'First', 'Second', 'Third', 'Fourth', 'Fifth', 'Sixth', 'S
   'Eighteenth', 'Nineteenth', 'Twentieth', 'Twenty-First', 'Twenty-Second', 'Twenty-Third', 'Twenty-Fourth',
   'Twenty-Fifth', 'Twenty-Sixth', 'Twenty-Seventh', 'Twenty-Eighth']
 
+// ─── Lesser Feasts and Fasts (commemorations) ────────────────────────────────
+const LFF_BY_DATE = (() => {
+  const idx = {}
+  for (const [key, f] of Object.entries(EPISCOPAL_LESSER_FEASTS)) {
+    for (const md of f.dates) (idx[md] ||= []).push(key)
+  }
+  return idx
+})()
+
+// An entry from either the Sunday/Holy Day lectionary or the Lesser Feasts
+function entryFor(key) {
+  return EPISCOPAL_LECTIONARY[key] || EPISCOPAL_LESSER_FEASTS[key] || null
+}
+
 // ─── Fixed-date Holy Days ────────────────────────────────────────────────────
 // [month, day, slug, overridesSunday]
 // overridesSunday: Principal Feasts and Feasts of Our Lord that take the place of an ordinary
@@ -85,6 +100,7 @@ export const EPISCOPAL_FEAST_NAMES = (() => {
     ['Monday in Holy Week', 'holyMon'], ['Tuesday in Holy Week', 'holyTue'], ['Wednesday in Holy Week', 'holyWed']]) {
     names.set(extra[0], extra[1])
   }
+  for (const f of Object.values(EPISCOPAL_LESSER_FEASTS)) if (!names.has(f.name)) names.set(f.name, 'lff')
   return [...names.keys()].sort((a, b) => a.localeCompare(b))
 })()
 
@@ -110,9 +126,15 @@ function slugForName(name) {
     'transfiguration': 'transfiguration', 'presentation': 'presentation', 'annunciation': 'annunciation',
     'visitation': 'visitation', 'epiphany': 'epiphany',
   })
+  // Lesser Feasts: exact name first, then partial (principal feasts above win partial matches)
+  const lff = Object.entries(EPISCOPAL_LESSER_FEASTS)
+  const exact = lff.find(([, f]) => f.name.toLowerCase().replace(/[’']/g, "'") === q)
+  if (exact && !table[q]) return exact[0]
   if (table[q]) return table[q]
   const hit = Object.keys(table).find(n => n.includes(q) || q.includes(n))
-  return hit ? table[hit] : null
+  if (hit) return table[hit]
+  const part = lff.find(([, f]) => f.name.toLowerCase().includes(q))
+  return part ? part[0] : null
 }
 
 // ─── Keys for a slug in a given lectionary year ──────────────────────────────
@@ -120,14 +142,15 @@ const YEAR_SPECIFIC = new Set(['allSaints', 'thanksgiving', 'easterDay', 'ascens
   'palmSunday', 'easterVigil'])
 
 function keyFor(slug, year) {
+  if (slug.startsWith('LFF.')) return slug
   if (YEAR_SPECIFIC.has(slug)) return `${year}.${slug}`
   if (slug === 'christmasDay') return 'ABC.christmasDay1'
   return `ABC.${slug}`
 }
 
 function describe(key, extra = {}) {
-  const e = EPISCOPAL_LECTIONARY[key]
-  return e ? { key, name: e.name, ...extra } : null
+  const e = entryFor(key)
+  return e ? { key, name: e.name, ...(key.startsWith('LFF.') ? { kind: 'lff', sub: e.sub } : {}), ...extra } : null
 }
 
 // ─── Core: what is this date? ────────────────────────────────────────────────
@@ -154,7 +177,7 @@ export function getEpiscopalDay(dateString) {
   else if (ms >= at(-6) && ms <= at(-1)) {
     const slugs = { [-6]: 'holyMon', [-5]: 'holyTue', [-4]: 'holyWed', [-3]: 'maundyThursday', [-2]: 'goodFriday', [-1]: 'holySaturday' }
     const slug = slugs[(ms - E) / DAY]
-    temporal = T(`ABC.${slug}`, 'Holy Week', EPISCOPAL_LECTIONARY[`ABC.${slug}`]?.name || 'Holy Week')
+    temporal = T(`ABC.${slug}`, 'Holy Week', entryFor(`ABC.${slug}`)?.name || 'Holy Week')
   } else if (ms === at(39)) temporal = T(`${year}.ascension`, 'Easter', 'Ascension Day')
   else if (isSunday) {
     if (ms >= advent1 && ms < utc(y, 12, 25)) {
@@ -246,6 +269,17 @@ export function getEpiscopalDay(dateString) {
     const a = describe(`${year}.allSaints`); if (a) also.push(a)
   }
 
+  // Lesser Feasts and Fasts commemorations on this date (not observed in Holy Week / Easter Week)
+  const mdKey = `${String(new Date(ms).getUTCMonth() + 1).padStart(2, '0')}-${String(new Date(ms).getUTCDate()).padStart(2, '0')}`
+  if (!(ms >= at(-7) && ms <= at(6))) {
+    for (const key of LFF_BY_DATE[mdKey] || []) {
+      const d = describe(key)
+      if (!d) continue
+      if (!primary && !temporal) primary = d
+      else also.push(d)
+    }
+  }
+
   if (!primary && temporal) primary = describe(temporal.key, { name: temporal.sundayName })
   if (!primary) return null
 
@@ -319,7 +353,7 @@ export function getEpiscopalReadings({ date, occasion, feastName, track = 1, obs
       const year = date ? getEpiscopalYear(date) : todayYear()
       let key = keyFor(slug, year)
       if (slug === 'christmasDay' && /eve|^christmas$/i.test(wanted) === false) key = 'ABC.christmasDay3'
-      const entry = EPISCOPAL_LECTIONARY[key]
+      const entry = entryFor(key)
       if (entry) {
         const also = slug === 'christmasDay' ? ['ABC.christmasDay1', 'ABC.christmasDay2', 'ABC.christmasDay3'].filter(k => k !== key).map(k => describe(k)) : []
         return { ...base, readings: readingsFromEntry(entry, track), entry, key, track2Available: Boolean(entry.track2), feastName: entry.name, also }
@@ -334,7 +368,7 @@ export function getEpiscopalReadings({ date, occasion, feastName, track = 1, obs
   if (!day) return { ...base, readings: [], feastName: null, notFound: true, year: getEpiscopalYear(date) }
   const all = [day.primary, ...day.also]
   const chosen = (observe && all.find(a => a.key === observe)) || day.primary
-  const entry = EPISCOPAL_LECTIONARY[chosen.key]
+  const entry = entryFor(chosen.key)
   const alsoList = all.filter(a => a.key !== chosen.key)
   const isFeast = !day.isSunday || chosen.key !== day.primary.key || chosen.key.startsWith('ABC.') || /allSaints|thanksgiving/.test(chosen.key)
   return {

@@ -3,6 +3,7 @@ import { useHomily } from '../../context/HomilyContext'
 import { getReadingsForOccasion } from '../../data/lectionary'
 import { getEpiscopalReadings } from '../../data/episcopalCalendar'
 import { WEDDING_READINGS, FUNERAL_READINGS } from '../../data/specialReadings'
+import { EPISCOPAL_MARRIAGE, EPISCOPAL_BURIAL } from '../../data/episcopalSpecial'
 import { fetchAllReadings } from '../../lib/bibleApi'
 import SectionHeader from '../ui/SectionHeader'
 import { BookOpen, ChevronDown, ChevronUp, Check, Loader2 } from 'lucide-react'
@@ -234,8 +235,11 @@ function ReadingPickerSection({ sectionDef, options, selectedRef, onSelect }) {
   )
 }
 
-function WeddingFuneralPicker({ mode, onConfirm }) {
-  const readingsData = mode === 'wedding' ? WEDDING_READINGS : FUNERAL_READINGS
+function WeddingFuneralPicker({ mode, tradition, onConfirm }) {
+  const episcopal = tradition === 'Episcopal'
+  const readingsData = episcopal
+    ? (mode === 'wedding' ? EPISCOPAL_MARRIAGE : EPISCOPAL_BURIAL)
+    : (mode === 'wedding' ? WEDDING_READINGS : FUNERAL_READINGS)
   const [selections, setSelections] = useState({ first: null, psalm: null, second: null, gospel: null })
 
   function handleConfirm() {
@@ -252,6 +256,8 @@ function WeddingFuneralPicker({ mode, onConfirm }) {
           translation: '',
           text: '',
           hasShortVersion: false,
+          // Episcopal: a BCP psalm range may need a different Bible verse range for its text
+          ...(chosen.textRef ? { textRefs: { [chosen.ref]: chosen.textRef } } : {}),
         })
       }
     })
@@ -265,16 +271,20 @@ function WeddingFuneralPicker({ mode, onConfirm }) {
         style={{ background: 'var(--bg-surface)', borderColor: 'var(--border-subtle)' }}
       >
         <p style={{ color: 'var(--text-muted)' }}>
-          {mode === 'wedding'
-            ? 'Choose one reading from each section. The Gospel is required. All readings are USCCB approved for the Rite of Marriage.'
-            : 'Choose one reading from each section. The Gospel is required. All readings are from the Order of Christian Funerals.'}
+          {episcopal
+            ? (mode === 'wedding'
+              ? 'Choose one reading from each section. The Gospel is required. These are the lessons appointed in the Book of Common Prayer for the Celebration and Blessing of a Marriage.'
+              : 'Choose one reading from each section. The Gospel is required. These are the lessons appointed in the Book of Common Prayer (and Enriching Our Worship 3) for the Burial of the Dead.')
+            : mode === 'wedding'
+              ? 'Choose one reading from each section. The Gospel is required. All readings are USCCB approved for the Rite of Marriage.'
+              : 'Choose one reading from each section. The Gospel is required. All readings are from the Order of Christian Funerals.'}
         </p>
       </div>
       <div className="space-y-3">
         {PICKER_SECTIONS.map(section => (
           <ReadingPickerSection
             key={section.key}
-            sectionDef={section}
+            sectionDef={episcopal && section.id === 'psalm' ? { ...section, label: 'Psalm' } : section}
             options={readingsData[section.key] || []}
             selectedRef={selections[section.id]}
             onSelect={(ref) => setSelections(prev => ({ ...prev, [section.id]: ref }))}
@@ -425,6 +435,8 @@ export default function Step2Readings() {
         episcopal.track2Available ? `Track ${state.track || 1}` : null].filter(Boolean)
       return bits.join(' · ')
     }
+    if (isEpiscopal && state.occasion === 'Wedding') return 'Choose from the lessons appointed for the Celebration and Blessing of a Marriage.'
+    if (isEpiscopal && state.occasion === 'Funeral Mass') return 'Choose from the lessons appointed for the Burial of the Dead.'
     if (state.occasion === 'Wedding') return 'Choose from the approved readings for the Rite of Marriage.'
     if (state.occasion === 'Funeral Mass') return 'Choose from the approved readings for the Order of Christian Funerals.'
     if (state.feastName) return `Readings for ${state.feastName}`
@@ -488,7 +500,7 @@ export default function Step2Readings() {
                 onMouseEnter={e => { e.currentTarget.style.borderColor = 'var(--gold-border)'; e.currentTarget.style.color = 'var(--gold)' }}
                 onMouseLeave={e => { e.currentTarget.style.borderColor = 'var(--border-medium)'; e.currentTarget.style.color = 'var(--text-body)' }}
               >
-                {o.name}
+                {o.name}{o.kind === 'lff' ? ' · Lesser Feast' : ''}
               </button>
             ))}
           </div>
@@ -510,7 +522,7 @@ export default function Step2Readings() {
 
       {/* Wedding / Funeral picker */}
       {!resolving && showPicker && (
-        <WeddingFuneralPicker mode={pickerMode} onConfirm={handlePickerConfirm} />
+        <WeddingFuneralPicker mode={pickerMode} tradition={state.tradition} onConfirm={handlePickerConfirm} />
       )}
 
       {/* Readings */}

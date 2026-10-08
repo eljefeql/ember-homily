@@ -15,6 +15,14 @@ while read p; do
   f="$D/pg/$(echo "$p" | tr '/' '_')"; f="${f%.html}.html"
   [ -s "$f" ] || { curl -sL "https://lectionarypage.net/$p" -o "$f"; sleep 0.3; }
 done < "$D/pages.txt"
+# Lesser Feasts and Fasts (index by date + one page per commemoration) and the Marriage/Burial lesson lists
+mkdir -p "$D/lff" "$D/lffpg"
+for p in CalndrsIndexes/TxtIndexLFF.html YearABC/SpecServ/Marriage.html YearABC/SpecServ/Burial.html YearABC/SpecServ/BurialEOW3.html; do
+  f="$D/lff/$(echo "$p" | tr '/' '_')"; [ -s "$f" ] || { curl -sL "https://lectionarypage.net/$p" -o "$f"; sleep 0.3; }
+done
+grep -oiE 'href="\.\./LesserFF[^"#]+"' "$D/lff/CalndrsIndexes_TxtIndexLFF.html" | sed -E 's#href="\.\./##; s#"$##' | sort -u | while read p; do
+  f="$D/lffpg/$(echo "$p" | tr '/' '_')"; [ -s "$f" ] || { curl -sL "https://lectionarypage.net/$(echo "$p" | sed 's/ /%20/g')" -o "$f"; sleep 0.25; }
+done
 # Vanderbilt's RCL citation list (used to map BCP Psalter verse numbers to Bible verse numbers)
 [ -s "$D/vand.json" ] || curl -sL "https://lectionary.library.vanderbilt.edu/texts/?y=18921&z=p&d=79" | python3 -c "
 import sys,re,json

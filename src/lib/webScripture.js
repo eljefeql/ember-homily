@@ -37,7 +37,8 @@ const BOOKS = {
   '3 John': P('3JN'), 'Jude': P('JUD'), 'Revelation': P('REV'),
   // Deuterocanonical books the RCL uses
   'Wisdom': D('WIS'), 'Sirach': D('SIR'), 'Baruch': D('BAR'), 'Judith': D('JDT'), 'Tobit': D('TOB'),
-  '1 Maccabees': D('1MA'), '2 Maccabees': D('2MA'), 'Song of the Three': D('DAG'),
+  '1 Maccabees': D('1MA'), '2 Maccabees': D('2MA'), 'Song of the Three': D('DAG'), 'Susanna': D('DAG'),
+  '2 Esdras': ['2ES', 'eng_weu'],     // WEB British Edition (the only WEB with 2 Esdras)
 }
 const SINGLE_CHAPTER = new Set(['Obadiah', 'Philemon', '2 John', '3 John', 'Jude'])
 
@@ -131,7 +132,12 @@ function chapterVerses(data, from, to) {
 }
 
 // The WEB prints the closing doxology of Romans (16:25-27 in most Bibles) after 14:23.
-const REMAP = { 'Romans 16:25-27': 'Romans 14:24-26' }
+// Likewise, the Prayer of Azariah / Song of the Three and Susanna are chapters of Daniel in the WEB.
+export const REMAP = {
+  'Romans 16:25-27': 'Romans 14:24-26',
+  'Azariah 1:28-34,52-59,68': 'Song of the Three 3:51-57, 75-82, 90',
+  'Susanna 34-46': 'Susanna 13:34-46',
+}
 
 const cache = new Map()
 
